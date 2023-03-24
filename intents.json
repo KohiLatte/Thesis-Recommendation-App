@@ -1,0 +1,2553 @@
+{
+  "intents": [
+    {
+      "tag": "bed frame",
+      "input": [
+        "How do I make a bed frame?",
+        "I want to build a bed frame",
+        "I need help making a bed frame"
+      ],
+      "responses": [
+        "To make a bed frame, you will need some wood, screws, a drill, and a saw. First, cut the wood to the desired size for the frame. Then, use the drill to attach the pieces together with screws. Make sure to use enough screws to ensure the frame is sturdy. Once the frame is assembled, you can add a mattress and bedding to complete the bed.",
+        "To make a bed frame, you will need some wood, screws, a drill, and a saw. You will also need some other materials, such as: A measuring tape and pencil to measure and mark the wood, Sandpaper to smooth the surfaces of the wood, Wood glue to reinforce the joints."
+      ]
+    },
+
+    {
+      "tag": "cabinet",
+      "input": [
+        "How do I make a cabinet?",
+        "I want to build a cabinet",
+        "I need help making a cabinet"
+      ],
+      "responses": [
+        "To make a cabinet, you will need some wood, screws, a drill, and a saw. First, cut the wood to the desired size for the cabinet frame and door. Then, use the drill to attach the pieces together with screws. Make sure to use enough screws to ensure the cabinet is sturdy. Once the frame is assembled, you can attach hinges to the door and install handles or knobs. Finally, add shelves to the inside of the cabinet for storage.",
+        "To make a cabinet, you will need some wood, screws, a drill, and a saw."
+      ]
+    },
+
+    {
+      "tag": "making_shelves",
+      "input": [
+        "How do I make shelves?",
+        "I want to build shelves",
+        "I need help making shelves"
+      ],
+      "responses": [
+        "To make shelves, you will need some wood, screws, a drill, and a saw. First, cut the wood to the desired size for the shelves. Then, use the drill to attach the pieces together with screws. Make sure to use enough screws to ensure the shelves are sturdy. Once the shelves are assembled, you can paint or stain them to match your home decor, and then mount them on the wall using wall anchors and screws.",
+        "The exact materials and tools you need may vary depending on the size and design of the shelves you are making. It is important to carefully plan the project and gather all the necessary materials before beginning to avoid any delays or unexpected issues."
+      ]
+    },
+
+    {
+      "tag": "making_a_dresser",
+      "input": [
+        "How do I make a dresser?",
+        "I want to build a dresser",
+        "I need help making a dresser"
+      ],
+      "responses": [
+        "To make a dresser, you will need some wood, screws, a drill, and a saw. First, cut the wood to the desired size for the dresser frame and drawers. Then, use the drill to attach the pieces together with screws. Make sure to use enough screws to ensure the dresser is sturdy. Once the frame is assembled, you can add the drawers and attach handles or pulls. Finally, sand and finish the dresser to give it a polished look.",
+        "A measuring tape and pencil to measure and mark the wood, Sandpaper to smooth the surfaces of the wood, Wood glue to reinforce the joints, A screwdriver to attach the screws, A hammer and nails, if desired, to provide additional support"
+      ]
+    },
+
+    {
+      "tag": "making_a_sofa",
+      "input": [
+        "How do I make a sofa?",
+        "I want to build a sofa",
+        "I need help making a sofa"
+      ],
+      "responses": [
+        "To make a sofa, you will need some wood, foam, fabric, and upholstery supplies. First, cut the wood to the desired size for the sofa frame and attach the pieces together with screws or nails. Then, cut the foam to size and attach it to the frame using adhesive spray or fabric glue. Next, cover the foam with the fabric of your choice and use upholstery tools to stretch the fabric over the frame and secure it in place. Finally, add cushions and pillows for comfort, and enjoy your new homemade sofa!"
+      ]
+    },
+
+    {
+      "tag": "making_a_bench",
+      "input": [
+        "How do I make a bench?",
+        "I want to build a bench",
+        "I need help making a bench"
+      ],
+      "responses": [
+        "To make a bench, you will need some wood, screws, a drill, and a saw. First, cut the wood to the desired size for the bench frame and seat. Then, use the drill to attach the pieces together with screws. Make sure to use enough screws to ensure the bench is sturdy. Once the frame is assembled, you can add a cushion or upholster the seat with fabric for comfort. You can also finish the bench with paint or stain to match your home decor.",
+        "The design and dimensions of the bench. You will need to decide on the overall size and shape of the bench, as well as any additional features, such as backrests or armrests. Make sure to measure and mark the wood carefully to ensure that all the pieces fit together properly."
+      ]
+    },
+
+    {
+      "tag": "making_a_desk",
+      "input": [
+        "How do I make a desk?",
+        "I want to build a desk",
+        "I need help making a desk"
+      ],
+      "responses": [
+        "To make a desk, you will need some wood, screws, a drill, and a saw. First, cut the wood to the desired size for the desk frame and top. Then, use the drill to attach the pieces together with screws. Make sure to use enough screws to ensure the desk is sturdy. Once the frame is assembled, you can add legs or supports to elevate the desk, and then attach the top to the frame. You can also add drawers, shelves, or other features to the desk to make it more functional. Finally, sand and finish the desk to give it a polished look.",
+        "The materials and tools needed. You will need to gather all the necessary materials, such as wood, screws, and finishings, as well as the tools, such as a saw and drill, to complete the project. Make sure to have everything on hand before beginning to avoid any delays or unexpected issues."
+      ]
+    },
+
+    {
+      "tag": "making_a_bookcase",
+      "input": [
+        "How do I make a bookcase?",
+        "I want to build a bookcase",
+        "I need help making a bookcase"
+      ],
+      "responses": [
+        "To make a bookcase, you will need some wood, screws, a drill, and a saw. First, cut the wood to the desired size for the bookcase frame and shelves. Then, use the drill to attach the pieces together with screws. Make sure to use enough screws to ensure the bookcase is sturdy. Once the frame is assembled, you can add the shelves and adjust them to the desired spacing. You can also finish the bookcase with paint or stain to match your home decor. Finally, add your books and other items to the shelves and enjoy your new homemade bookcase!",
+        "The construction process. It is important to plan out the steps of the construction process carefully, and to follow them in the correct order. This will help ensure that the bookcase is sturdy and well-constructed."
+      ]
+    },
+
+    {
+      "tag": "adobo_recipe",
+      "input": [
+        "How do I make Adobo?",
+        "I want to cook Adobo",
+        "I need help making Adobo"
+      ],
+      "responses": [
+        "To make Adobo, you will need chicken or pork, soy sauce, vinegar, garlic, and black peppercorns. Marinate the meat in a mixture of soy sauce, vinegar, garlic, and black peppercorns for at least an hour. Then, in a pan, brown the meat and add the marinade. Bring to a boil and then simmer for about 30 minutes or until the meat is cooked through. You can also add vegetables like potatoes or carrots for a more flavorful dish.",
+        "To make Adobo, you will need the following ingredients : chicken or pork, soy sauce, vinegar, garlic, and black peppercorns. First, marinate the meat in a mixture of soy sauce, vinegar, garlic, and black peppercorns for at least an hour. Then, in a pan brown the meat and add the marinade. Bring to a boil and then simmer for about 30 minutes or until the meat is cooked through. You can serve Adobo with steamed rice."
+      ]
+    },
+
+    {
+      "tag": "sinigang_recipe",
+      "input": [
+        "How do I make Sinigang?",
+        "I want to cook Sinigang",
+        "I need help making Sinigang"
+      ],
+      "responses": [
+        "To make Sinigang, you will need tamarind, pork or shrimp, and vegetables like tomatoes, onions, and okra. In a pot, bring the tamarind and water to a boil. Then, add the pork or shrimp and vegetables. Simmer for about 20-30 minutes or until the meat is cooked through. You can also add some fish sauce or salt to taste.",
+        "To make Sinigang, you will need the following ingredients : tamarind, pork or shrimp, tomatoes, onions, okra, fish sauce or salt. First, in a pot bring the tamarind and water to a boil. Then, add the pork or shrimp and vegetables. Simmer for about 20-30 minutes or until the meat is cooked through. Finally add fish sauce or salt to taste and serve with steamed rice."
+      ]
+    },
+
+    {
+      "tag": "kare-kare_recipe",
+      "input": [
+        "How do I make Kare-kare?",
+        "I want to cook Kare-kare",
+        "I need help making Kare-kare"
+      ],
+      "responses": [
+        "To make Kare-kare, you will need meat (usually ox tail), peanut butter, onions, and vegetables like eggplant, bok choy, and string beans. In a pot, bring water to a boil and add the meat. Simmer for about an hour or until the meat is tender. Then, add the peanut butter, onions, and vegetables and continue to simmer for another 20 minutes. Season with fish sauce or salt to taste and serve with steamed rice.",
+        "To make Kare-kare, you will need the following ingredients : meat (usually ox tail), peanut butter, onions, eggplant, bok choy, string beans, fish sauce or salt. First, in a pot bring water to a boil and add the meat. Simmer for about an hour or until the meat is tender. Then, add the peanut butter, onions, and vegetables and continue to simmer for another 20 minutes. Season with fish sauce or salt to taste and serve with steamed rice."
+      ]
+    },
+
+    {
+      "tag": "lechon_recipe",
+      "input": [
+        "How do I make Lechon?",
+        "I want to cook Lechon",
+        "I need help making Lechon"
+      ],
+      "responses": [
+        "To make Lechon, you will need a whole pig, seasonings like salt, pepper, and lemongrass, and a large spit or roasting pan. First, clean the pig and make incisions on the skin. Then, stuff the pig with the seasonings and place it on the spit or in the roasting pan. Roast the pig over charcoal or in an oven, basting it with oil or butter periodically. Roast for several hours or until the skin is crispy and the meat is cooked through.",
+        "To make Lechon, you will need a whole pig, seasonings like salt, pepper, lemongrass, large spit or roasting pan, charcoal or oven. First, clean the pig and make incisions on the skin. Then, stuff the pig with the seasonings and place it on the spit or in the roasting pan. Roast the pig over charcoal or in an oven, basting it with oil or butter periodically. Roast for several hours or until the skin is crispy and the meat is cooked through. Remember that the time of roasting will depend on the size of the pig, and it's important to use a meat thermometer to ensure the pig is cooked through. Once cooked, let the pig rest for a few minutes before slicing and serving."
+      ]
+    },
+
+    {
+      "tag": "pancit_recipe",
+      "input": [
+        "How do I make Pancit?",
+        "I want to cook Pancit",
+        "I need help making Pancit"
+      ],
+      "responses": [
+        "To make Pancit, you will need noodles (usually rice or egg noodles), meat (usually chicken or pork), and vegetables like carrots, cabbage, and onions. Cook the noodles according to package instructions. In a pan, sauté the meat and vegetables. Add the cooked noodles and continue to sauté for a few minutes. Season with soy sauce or fish sauce to taste and serve.",
+        "To make Pancit, you will need the following ingredients: noodles (usually rice or egg noodles), meat (usually chicken or pork), vegetables like carrots, cabbage, and onions, soy sauce or fish sauce. First, cook the noodles according to package instructions. In a pan, sauté the meat and vegetables. Add the cooked noodles and continue to sauté for a few minutes. Season with soy sauce or fish sauce to taste. You can also add some sliced green onions or calamansi as a garnish. Serve hot."
+      ]
+    },
+
+    {
+      "tag": "halo-halo_recipe",
+      "input": [
+        "How do I make Halo-halo?",
+        "I want to make Halo-halo",
+        "I need help making Halo-halo"
+      ],
+      "responses": [
+        "To make Halo-halo, you will need shaved ice, condensed milk, and various toppings like beans, fruit, jelly, and flan. In a tall glass, layer the shaved ice and toppings, starting with the heavier ingredients at the bottom and lighter ingredients on top. Pour condensed milk over the top and stir to combine. You can also add a scoop of ice cream for added creaminess.",
+        "To make Halo-halo, you will need shaved ice, condensed milk, and various toppings like beans, fruit, jelly, flan, and ice cream. First, in a tall glass layer the shaved ice and toppings, starting with the heavier ingredients at the bottom and lighter ingredients on top. Pour condensed milk over the top and stir to combine. You can also add a scoop of ice cream on top for added creaminess. You can experiment with different toppings to make your own unique Halo-halo."
+      ]
+    },
+
+    {
+      "tag": "bistek_recipe",
+      "input": [
+        "How do I make Bistek?",
+        "I want to cook Bistek",
+        "I need help making Bistek"
+      ],
+      "responses": [
+        "To make Bistek, you will need thin-sliced beef, soy sauce, lemon or calamansi juice, onions, and oil for cooking. Marinate the beef in a mixture of soy sauce and lemon or calamansi juice for at least an hour. In a pan, heat oil and sauté the onions. Add the marinated beef and cook until browned. You can also add some sliced onions on top of the beef before serving.",
+        "To make Bistek, you will need thin-sliced beef, soy sauce, lemon or calamansi juice, onions, and oil. First, marinate the beef in a mixture of soy sauce and lemon or calamansi juice for at least an hour. In a pan, heat oil and sauté the onions. Then add the marinated beef and cook until browned. You can serve Bistek with steamed rice and sliced onions on top."
+      ]
+    },
+
+    {
+      "tag": "tapsilog_recipe",
+      "input": [
+        "How do I make Tapsilog?",
+        "I want to cook Tapsilog",
+        "I need help making Tapsilog",
+        "Tapsilog"
+      ],
+      "responses": [
+        "To make Tapsilog, you will need thin-sliced beef, soy sauce, garlic, and oil for cooking. Marinate the beef in a mixture of soy sauce and minced garlic for at least an hour. In a pan, heat oil and cook the marinated beef until browned. Serve the beef with steamed rice and fried egg on top. Tapsilog is a popular breakfast dish in Philippines, which consist of beef, fried egg and steamed rice.",
+        "To make Tapsilog, you will need thin-sliced beef, soy sauce, garlic, and oil. First, marinate the beef in a mixture of soy sauce and minced garlic for at least an hour. In a pan, heat oil and cook the marinated beef until browned. Serve the beef with steamed rice and fried egg on top. Tapsilog is a popular breakfast dish in Philippines, which consist of beef, fried egg and steamed rice."
+      ]
+    },
+
+    {
+      "tag": "lumpia_recipe",
+      "input": [
+        "How do I make Lumpia?",
+        "I want to cook Lumpia",
+        "I need help making Lumpia"
+      ],
+      "responses": [
+        "To make Lumpia, you will need spring roll wrappers, filling ingredients like ground pork, shrimp, vegetables, and seasonings. Mix the filling ingredients together and place a spoonful of the mixture on a spring roll wrapper. Roll the wrapper tightly, tucking in the sides as you go. Deep fry the lumpia until golden brown and crispy. Serve with sweet chili sauce or sweet and sour sauce.",
+        "To make Lumpia, you will need spring roll wrappers, ground pork, shrimp, vegetables, seasonings, sweet chili sauce or sweet and sour sauce. First, mix the filling ingredients together and place a spoonful of the mixture on a spring roll wrapper. Roll the wrapper tightly, tucking in the sides as you go. Deep fry the lumpia until golden brown and crispy. Serve with sweet chili sauce or sweet and sour sauce."
+      ]
+    },
+
+    {
+      "tag": "sisig_recipe",
+      "input": [
+        "How do I make Sisig?",
+        "I want to cook Sisig",
+        "I need help making Sisig"
+      ],
+      "responses": [
+        "To make Sisig, you will need pork, seasonings like soy sauce, calamansi juice, and chili peppers, and ingredients like onion, ginger, and mayonnaise. Grill or boil the pork until cooked through, then chop or mince it. In a pan, sauté the pork with the seasonings and ingredients until heated through. Serve sizzling hot with steamed rice.",
+        "To make Sisig, you will need pork, soy sauce, calamansi juice, chili peppers, onion, ginger, mayonnaise and steamed rice. First, grill or boil the pork until cooked through, then chop or mince it. In a pan, sauté the pork with the seasonings and ingredients until heated through. Serve sizzling hot with steamed rice. Sisig is a popular dish in the Philippines, which is usually served on a sizzling plate and eaten with rice."
+      ]
+    },
+
+    {
+      "tag": "caldereta_recipe",
+      "input": [
+        "How do I make Caldereta?",
+        "I want to cook Caldereta",
+        "I need help making Caldereta"
+      ],
+      "responses": [
+        "To make Caldereta, you will need beef, liver spread, tomato sauce, potatoes, and vegetables like bell peppers and olives. In a pot, brown the beef and add the liver spread, tomato sauce, potatoes, and vegetables. Simmer for about 30 minutes or until the beef is cooked through. You can also add some cheese on top before serving.",
+        "To make Caldereta, you will need beef, liver spread, tomato sauce, potatoes, bell peppers, olives, and cheese. First, in a pot brown the beef and add the liver spread, tomato sauce, potatoes, and vegetables. Simmer for about 30 minutes or until the beef is cooked through. Before serving, you can add some grated cheese on top for added flavor."
+      ]
+    },
+
+    {
+      "tag": "tinola_recipe",
+      "input": [
+        "How do I make Tinola?",
+        "I want to cook Tinola",
+        "I need help making Tinola"
+      ],
+      "responses": [
+        "To make Tinola, you will need chicken, ginger, onions, green papaya or chayote, and fish sauce or salt. In a pot, bring water to a boil and add the chicken. Simmer for about 10 minutes, then add the ginger, onions, and green papaya or chayote. Continue to simmer for another 15 minutes or until the chicken is cooked through. Season with fish sauce or salt to taste and serve with steamed rice.",
+        "To make Tinola, you will need chicken, ginger, onions, green papaya or chayote, fish sauce or salt, and steamed rice. In a pot, bring water to a boil and add the chicken. Simmer for about 10 minutes, then add the ginger, onions, and green papaya or chayote. Continue to simmer for another 15 minutes or until the chicken is cooked through. Season with fish sauce or salt to taste. Tinola is a traditional Filipino dish that is known for its light and healthy broth."
+      ]
+    },
+
+    {
+      "tag": "laing_recipe",
+      "input": [
+        "How do I make Laing?",
+        "I want to cook Laing",
+        "I need help making Laing"
+      ],
+      "responses": [
+        "To make Laing, you will need dried taro leaves, coconut milk, meat (usually pork), chili peppers, ginger, and fish sauce or salt. In a pot, bring water to a boil and add the taro leaves. Simmer for about 15 minutes or until the leaves are tender. Then add the coconut milk, meat, chili peppers, and ginger. Simmer for another 15 minutes or until the meat is cooked through. Season with fish sauce or salt to taste."
+      ]
+    },
+
+    {
+      "tag": "dinuguan_recipe",
+      "input": [
+        "How do I make Dinuguan?",
+        "I want to cook Dinuguan",
+        "I need help making Dinuguan"
+      ],
+      "responses": [
+        "To make Dinuguan, you will need pork blood, pork meat, onions, garlic, ginger, and vinegar. In a pot, sauté the onions, garlic, and ginger, then add the pork meat and cook until browned. Add the pork blood and vinegar, and bring the mixture to a boil. Simmer for about 30 minutes or until the sauce thickens. Dinuguan is a savory stew that is known for its unique and rich flavor.",
+        "To make Dinuguan, you will need pork blood, pork meat, onions, garlic, ginger, vinegar. In a pot, sauté the onions, garlic, and ginger, then add the pork meat and cook until browned. Add the pork blood and vinegar, and bring the mixture to a boil. Simmer for about 30 minutes or until the sauce thickens. Dinuguan is a savory dish that is known for its unique and rich flavor."
+      ]
+    },
+
+    {
+      "tag": "inihaw_na_Bangus_recipe",
+      "input": [
+        "How do I make Inihaw na Bangus?",
+        "I want to cook Inihaw na Bangus",
+        "I need help making Inihaw na Bangus"
+      ],
+      "responses": [
+        "To make Inihaw na Bangus, you will need a whole milkfish, salt, pepper, and skewers. Clean and prepare the milkfish by removing the innards and scales. Season with salt and pepper. Skewer the milkfish and grill over charcoal for about 10-15 minutes or until cooked through. Inihaw na Bangus is a traditional dish from the Philippines where fish is grilled and seasoned with salt, pepper, and other spices.",
+        "To make Inihaw na Bangus, you will need a whole milkfish, salt, pepper, skewers, charcoal. Clean and prepare the milkfish by removing the innards and scales. Season with salt and pepper. Skewer the milkfish and grill over charcoal for about 10-15 minutes or until cooked through. Inihaw na Bangus is a traditional dish from the Philippines where fish is grilled and seasoned with salt, pepper, and other spices."
+      ]
+    },
+
+    {
+      "tag": "puto_recipe",
+      "input": [
+        "How do I make Puto?",
+        "I want to cook Puto",
+        "I need help making Puto"
+      ],
+      "responses": [
+        "To make Puto, you will need rice flour, sugar, salt, baking powder, and water or coconut milk. In a mixing bowl, combine all the ingredients and mix until well combined. Pour the batter into greased molds and steam for about 10-15 minutes or until cooked through. Puto is a type of steamed rice cake that is a popular Filipino delicacy and it's often served as a snack or as an accompaniment to savory dishes",
+        "To make Puto, you will need rice flour, sugar, salt, baking powder, and water or coconut milk. In a mixing bowl, combine all the ingredients and mix until well combined. Pour the batter into greased molds and steam for about 10-15 minutes or until cooked through. Puto is a popular Filipino delicacy and it's often served as a snack or as an accompaniment to savory dishes. It can be flavored with cheese, ube, or pandan leaves as well."
+      ]
+    },
+
+    {
+      "tag": "kakanin_recipe",
+      "input": [
+        "How do I make Kakanin?",
+        "I want to cook Kakanin",
+        "I need help making Kakanin"
+      ],
+      "responses": [
+        "To make Kakanin, you will need glutinous rice, sugar, and coconut milk. In a pot, bring water to a boil and add the rice. Cook until tender and add the sugar and coconut milk. Mix well and cook until the mixture thickens. Kakanin is a traditional Filipino delicacy made from glutinous rice and it's often sweetened with sugar and flavored with coconut milk, ube, or pandan leaves.",
+        "To make Kakanin, you will need glutinous rice, sugar, and coconut milk. In a pot, bring water to a boil and add the rice. Cook until tender and add the sugar and coconut milk. Mix well and cook until the mixture thickens. Kakanin is a traditional Filipino delicacy made from glutinous rice and it's often sweetened with sugar and flavored with coconut milk, ube, or pandan leaves. It can also be topped with grated coconut or latik for added flavor. Kakanin is usually served as a dessert or snack and can be enjoyed with a cup of hot tea or coffee."
+      ]
+    },
+
+    {
+      "tag": "inihaw_na_Pusit_recipe",
+      "input": [
+        "How do I make Inihaw na Pusit?",
+        "I want to cook Inihaw na Pusit",
+        "I need help making Inihaw na Pusit"
+      ],
+      "responses": [
+        "To make Inihaw na Pusit, you will need squid, soy sauce, vinegar, calamansi, garlic, and pepper. Clean and prepare the squid by removing the innards and cleaning it thoroughly. Marinate the squid with soy sauce, vinegar, calamansi, garlic, and pepper for at least 30 minutes. Skewer the squid and grill over charcoal or in a grill pan until cooked through. Inihaw na Pusit is a traditional Filipino dish where squid is marinated in a mixture of soy sauce, vinegar, calamansi, garlic, and pepper before grilling. It is usually served as a main dish or as a pulutan (beer snack) with steamed rice and a dipping sauce.",
+        "To make Inihaw na Pusit, you will need squid, soy sauce, vinegar, calamansi, garlic, pepper. Clean and prepare the squid by removing the innards and cleaning it thoroughly. Marinate the squid with soy sauce, vinegar, calamansi, garlic, and pepper for at least 30 minutes. Skewer the squid and grill over charcoal or in a grill pan until cooked through. Inihaw na Pusit is a traditional Filipino dish where squid is marinated in a mixture of soy sauce, vinegar, calamansi, garlic, and pepper before grilling. It is usually served as a main dish or as a pulutan (beer snack) with steamed rice and a dipping sauce. It's a simple and tasty dish that is perfect for seafood lovers."
+      ]
+    },
+
+    {
+      "tag": "humba_recipe",
+      "input": [
+        "How do I make Humba?",
+        "I want to cook Humba",
+        "I need help making Humba"
+      ],
+      "responses": [
+        "To make Humba, you will need pork belly, soy sauce, brown sugar, bay leaves, star anise, and black beans. Cut the pork belly into cubes and marinate it in a mixture of soy sauce, brown sugar, bay leaves, star anise, and black beans for at least an hour. In a pot, simmer the pork belly until tender and the sauce has thickened. Humba is a traditional Filipino dish where pork belly is braised in a sweet and savory sauce made from soy sauce, brown sugar, bay leaves, star anise, and black beans. It's usually served with steamed rice and it's a popular dish in the Visayas region of the Philippines.",
+        "To make Humba, you will need pork belly, soy sauce, brown sugar, bay leaves, star anise, and black beans. Cut the pork belly into cubes and marinate it in a mixture of soy sauce, brown sugar, bay leaves, star anise, and black beans for at least an hour. In a pot, simmer the pork belly until tender and the sauce has thickened. Humba is a traditional Filipino dish where pork belly is braised in a sweet and savory sauce made from soy sauce, brown sugar, bay leaves, star anise, and black beans. It's usually served with steamed rice and it's a popular dish in the Visayas region of the Philippines. The rich and savory taste of the sauce pairs well with the tender and juicy pork belly, making it a perfect comfort food."
+      ]
+    },
+
+    {
+      "tag": "sinigang_na_Bangus_recipe",
+      "input": [
+        "How do I make Sinigang na Bangus?",
+        "I want to cook Sinigang na Bangus",
+        "I need help making Sinigang na Bangus"
+      ],
+      "responses": [
+        "To make Sinigang na Bangus, you will need milkfish, tamarind, vegetables such as okra, eggplant, and tomatoes, and seasoning like fish sauce, salt, and pepper. In a pot, simmer the milkfish and vegetables in a tamarind-based broth until the fish is cooked through and the vegetables are tender. Sinigang na Bangus is a popular Filipino dish where milkfish is cooked in a sour and savory tamarind broth with vegetables. It's usually served with steamed rice and is a perfect dish for a cold weather.",
+        "To make Sinigang na Bangus, you will need milkfish, tamarind, vegetables such as okra, eggplant, tomatoes, fish sauce, salt, pepper. In a pot, simmer the milkfish and vegetables in a tamarind-based broth until the fish is cooked through and the vegetables are tender. Sinigang na Bangus is a popular Filipino dish where milkfish is cooked in a sour and savory tamarind broth with vegetables. It's usually served with steamed rice and is a perfect dish for a cold weather. Sinigang is a Filipino dish with a sour broth, usually tamarind-based, and it's a very popular dish in the Philippines."
+      ]
+    },
+
+    {
+      "tag": "bulaklak_ng_Saging_recipe",
+      "input": [
+        "How do I make Bulaklak ng Saging?",
+        "I want to cook Bulaklak ng Saging",
+        "I need help making Bulaklak ng Saging"
+      ],
+      "responses": [
+        "To make Bulaklak ng Saging, you will need banana blossom or heart, meat, shrimp, ginger, garlic, onions, fish sauce, and pepper. Clean and prepare the banana blossom by removing the outer layers and the tough inner core. Chop the meat and shrimp and sauté with ginger, garlic, onions, fish sauce, and pepper. Add the banana blossom and continue to sauté until the banana blossom is cooked. Bulaklak ng Saging is a unique Filipino dish where banana blossom or heart is cooked with meat and shrimp in a flavorful ginger, garlic, and fish sauce broth. It's a healthy dish that is perfect as a side dish or as a main dish with steamed rice.",
+        "To make Bulaklak ng Saging, you will need banana blossom or heart, meat, shrimp, ginger, garlic, onions, fish sauce, and pepper. Clean and prepare the banana blossom by removing the outer layers and the tough inner core. Chop the meat and shrimp and sauté with ginger, garlic, onions, fish sauce, and pepper. Add the banana blossom and continue to sauté until the banana blossom is cooked. Bulaklak ng Saging is a unique Filipino dish where banana blossom or heart is cooked with meat and shrimp in a flavorful ginger, garlic, and fish sauce broth. It's a healthy dish that is perfect as a side dish or as a main dish with steamed rice. This dish is not commonly seen on a Filipino Restaurant Menu and it's a unique dish that is enjoyed by many Filipino."
+      ]
+    },
+
+    {
+      "tag": "sinigang_na_Ulo_ng_isda_recipe",
+      "input": [
+        "How do I make Sinigang na Ulo ng Isda?",
+        "I want to cook Sinigang na Ulo ng Isda",
+        "I need help making Sinigang na Ulo ng Isda"
+      ],
+      "responses": [
+        "To make Sinigang na Ulo ng Isda, you will need fish head, tamarind, vegetables such as tomatoes, onions, and eggplant, fish sauce, and pepper. Clean and prepare the fish head by removing the gills and scales. In a pot, bring water to a boil and add the fish head, tamarind, vegetables, fish sauce, and pepper. Simmer until the fish head is cooked and the vegetables are tender. Sinigang na Ulo ng Isda is a unique Filipino dish where fish head is cooked in a tangy tamarind broth with vegetables. It's a healthy and flavorful dish that is perfect as a main dish with steamed rice",
+        "To make Sinigang na Ulo ng Isda, you will need fish head, tamarind, vegetables such as tomatoes, onions, and eggplant, fish sauce, and pepper. Clean and prepare the fish head by removing the gills and scales. In a pot, bring water to a boil and add the fish head, tamarind, vegetables, fish sauce, and pepper. Simmer until the fish head is cooked and the vegetables are tender. Sinigang na Ulo ng Isda is a unique Filipino dish where fish head is cooked in a tangy tamarind broth with vegetables. It's a healthy and flavorful dish that is perfect as a main dish with steamed rice. It's a dish that is not commonly seen on a restaurant menu and it's a unique dish that is enjoyed by many Filipino."
+      ]
+    },
+
+    {
+      "tag": "adobong_Atay_ng_Manok_recipe",
+      "input": [
+        "How do I make Adobong Atay ng Manok?",
+        "I want to cook Adobong Atay ng Manok",
+        "I need help making Adobong Atay ng Manok"
+      ],
+      "responses": [
+        "To make Adobong Atay ng Manok, you will need chicken liver, soy sauce, vinegar, garlic, onion, and black pepper. Clean and prepare the chicken liver by removing any impurities. In a pan, sauté garlic and onion until fragrant. Add the chicken liver and continue to sauté until browned. Add soy sauce, vinegar, and black pepper to taste. Simmer until the sauce has thickened. Adobong Atay ng Manok is a unique Filipino dish where chicken liver is cooked in a savory and slightly sour sauce. It's a flavorful and healthy dish that is perfect as a side dish or as a main dish with steamed rice.",
+        "To make Adobong Atay ng Manok, you will need chicken liver, soy sauce, vinegar, garlic, onion, and black pepper. Clean and prepare the chicken liver by removing any impurities. In a pan, sauté garlic and onion until fragrant. Add the chicken liver and continue to sauté until browned. Add soy sauce, vinegar, and black pepper to taste. Simmer until the sauce has thickened. Adobong Atay ng Manok is a unique Filipino dish where chicken liver is cooked in a savory and slightly sour sauce. It's a flavorful and healthy dish that is perfect as a side dish or as a main dish with steamed rice. It's a dish that is not commonly seen on a restaurant menu, but it's a delicious and unique dish that is worth trying"
+      ]
+    },
+
+    {
+      "tag": "fixing water pump recommendation",
+      "input": [
+        "I need to fix my water pump",
+        "What materials and tools do I need to fix my water pump?",
+        "Can you recommend materials and tools for fixing a water pump?"
+      ],
+
+      "responses": [
+        "To fix a water pump, you will need the following materials: replacement water pump, and possibly a new gasket or sealant. As for tools, you will need: socket set or wrench set, pliers, and a specialized tool that is required for your specific make and model of car. A coolant drain pan and a funnel may also be required."
+      ]
+    },
+
+    {
+      "tag": "fixing a car air filter recommendation",
+      "input": [
+        "I need to fix a car air filter",
+        "What materials and tools do I need to fix a car air filter?",
+        "Can you recommend materials and tools for fixing a car air filter?"
+      ],
+      "responses": [
+        "To fix a car air filter, you will need the following materials: A replacement air filter, sealant or adhesive (if required). As for tools, you will need: a socket wrench or pliers, a screwdriver, and safety equipment such as gloves and goggles."
+      ]
+    },
+
+    {
+      "tag": "fixing a car spark plug recommendation",
+      "input": [
+        "I need to fix a car spark plug",
+        "What materials and tools do I need to fix a car spark plug?",
+        "Can you recommend materials and tools for fixing a car spark plug?"
+      ],
+      "responses": [
+        "To fix a car spark plug, you will need the following materials: replacement spark plugs, anti-seize lubricant. As for tools, you will need: a spark plug socket, a ratchet or torque wrench, pliers and a feeler gauge."
+      ]
+    },
+
+    {
+      "tag": "fixing a serpentine belt recommendation",
+      "input": [
+        "I need to fix a serpentine belt",
+        "What materials and tools do I need to fix a serpentine belt?",
+        "Can you recommend materials and tools for fixing a serpentine belt?"
+      ],
+      "responses": [
+        "To fix a serpentine belt, you will need the following materials: A replacement serpentine belt, belt tensioner pulley. As for tools, you will need: a socket set, a ratchet, a belt tensioner tool or a breaker bar, a torque wrench or a belt tension gauge."
+      ]
+    },
+
+    {
+      "tag": "fixing brake pads recommendation",
+      "input": [
+        "I need to fix brake pads",
+        "What materials and tools do I need to fix brake pads?",
+        "Can you recommend materials and tools for fixing brake pads?"
+      ],
+      "responses": [
+        "To fix brake pads, you will need the following materials: replacement brake pads, lubricant or brake grease, and new hardware if required. As for tools, you will need: a socket or crescent wrench set, pliers, a wire brush or sandpaper, a jack and jack stands for safety, and a brake caliper tool (if required) "
+      ]
+    },
+
+    {
+      "tag": "fixing a car battery recommendation",
+      "input": [
+        "I need to fix a car battery",
+        "What materials and tools do I need to fix a car battery?",
+        "Can you recommend materials and tools for fixing a car battery?"
+      ],
+      "responses": [
+        "To fix a car battery, you will need the following materials: a replacement battery, and cable connector or terminals if needed. As for tools, you will need: a socket or crescent wrench set, pliers, wire brush or sandpaper, and safety equipment such as gloves and goggles."
+      ]
+    },
+
+    {
+      "tag": "changing engine oil recommendation",
+      "input": [
+        "I need to change my engine oil",
+        "What materials and tools do I need to change my engine oil?",
+        "Can you recommend materials and tools for changing engine oil?"
+      ],
+      "responses": [
+        "To change your engine oil, you will need the following materials: oil filter, oil drain pan, and the appropriate type and amount of oil for your vehicle. As for tools, you will need: a socket or crescent wrench set, a funnel, a ratchet, oil filter wrench, and possibly a torque wrench."
+      ]
+    },
+
+    {
+      "tag": "fixing an oil filter recommendation",
+      "input": [
+        "I need to fix my oil filter",
+        "What materials and tools do I need to fix my oil filter?",
+        "Can you recommend materials and tools for fixing an oil filter?"
+      ],
+      "responses": [
+        "To fix an oil filter, you will need the following materials: a replacement oil filter, and oil filter gasket if required. As for tools, you will need: an oil filter wrench or pliers, a ratchet or socket wrench, and possibly a torque wrench if specified by the manufacturer."
+      ]
+    },
+
+    {
+      "tag": "fixing windshield wiper blades recommendation",
+      "input": [
+        "I need to fix my windshield wiper blades",
+        "What materials and tools do I need to fix my windshield wiper blades?",
+        "Can you recommend materials and tools for fixing windshield wiper blades?"
+      ],
+      "responses": [
+        "To fix windshield wiper blades, you will need the following materials: replacement wiper blades. As for tools, you will need: a flathead screwdriver or a release tab tool (if necessary) and a pair of pliers."
+      ]
+    },
+
+    {
+      "tag": "fixing headlight bulbs recommendation",
+      "input": [
+        "I need to fix my headlight bulbs",
+        "What materials and tools do I need to fix my headlight bulbs?",
+        "Can you recommend materials and tools for fixing headlight bulbs?"
+      ],
+      "responses": [
+        "To fix headlight bulbs, you will need the following materials: replacement headlight bulbs. As for tools, you will need: a screwdriver, a socket wrench and extension or a specialized tool that is required for your specific make and model of car."
+      ]
+    },
+
+    {
+      "tag": "fixing taillight bulbs recommendation",
+      "input": [
+        "I need to fix my taillight bulbs",
+        "What materials and tools do I need to fix my taillight bulbs?",
+        "Can you recommend materials and tools for fixing taillight bulbs?"
+      ],
+      "responses": [
+        "To fix taillight bulbs, you will need the following materials: replacement taillight bulbs. As for tools, you will need: a screwdriver, a socket wrench and extension or a specialized tool that is required for your specific make and model of car."
+      ]
+    },
+
+    {
+      "tag": "fixing fuel filter recommendation",
+      "input": [
+        "I need to fix my fuel filter",
+        "What materials and tools do I need to fix my fuel filter?",
+        "Can you recommend materials and tools for fixing a fuel filter?"
+      ],
+      "responses": [
+        "To fix a fuel filter, you will need the following materials: replacement fuel filter, O-rings or gasket (if necessary). As for tools, you will need: pliers, a drain pan or a container to catch the fuel, a ratchet or socket wrench, and possibly a specialized tool that is required for your specific make and model of car."
+      ]
+    },
+
+    {
+      "tag": "fixing valve cover gasket recommendation",
+      "input": [
+        "I need to fix my valve cover gasket",
+        "What materials and tools do I need to fix my valve cover gasket?",
+        "Can you recommend materials and tools for fixing a valve cover gasket?"
+      ],
+      "responses": [
+        "To fix a valve cover gasket, you will need the following materials: replacement valve cover gasket, RTV sealant (if necessary), and possibly a gasket scraper. As for tools, you will need: socket set, ratchet, torque wrench, flathead and Phillips screwdrivers, gasket scraper and a clean rag or shop towel."
+      ]
+    },
+
+    {
+      "tag": "fixing PCV valve recommendation",
+      "input": [
+        "I need to fix my PCV valve",
+        "What materials and tools do I need to fix my PCV valve?",
+        "Can you recommend materials and tools for fixing a PCV valve?"
+      ],
+      "responses": [
+        "To fix a PCV valve, you will need the following materials: replacement PCV valve. As for tools, you will need: socket set or wrench, pliers, and possibly a specialized tool that is required for your specific make and model of car."
+      ]
+    },
+
+    {
+      "tag": "fixing alternator recommendation",
+      "input": [
+        "I need to fix my alternator",
+        "What materials and tools do I need to fix my alternator?",
+        "Can you recommend materials and tools for fixing an alternator?"
+      ],
+      "responses": [
+        "To fix an alternator, you will need the following materials: replacement alternator, and possibly some electrical tape or wire connectors. As for tools, you will need: socket set or wrench set, pliers, and a voltmeter or multimeter, and possibly a specialized tool that is required for your specific make and model of car."
+      ]
+    },
+
+    {
+      "tag": "fixing water pump recommendation",
+      "input": [
+        "I need to fix my water pump",
+        "What materials and tools do I need to fix my water pump?",
+        "Can you recommend materials and tools for fixing a water pump?"
+      ],
+      "responses": [
+        "To fix a water pump, you will need the following materials: replacement water pump, and possibly a new gasket or sealant. As for tools, you will need: socket set or wrench set, pliers, and a specialized tool that is required for your specific make and model of car. A coolant drain pan and a funnel may also be required."
+      ]
+    },
+
+    {
+      "tag": "fixing thermostat recommendation",
+      "input": [
+        "I need to fix my thermostat",
+        "What materials and tools do I need to fix my thermostat?",
+        "Can you recommend materials and tools for fixing a thermostat?"
+      ],
+      "responses": [
+        "To fix a thermostat, you will need the following materials: replacement thermostat and possibly a new gasket or sealant. As for tools, you will need: socket set or wrench set, pliers, and a specialized tool that is required for your specific make and model of car. A coolant drain pan and a funnel may also be required."
+      ]
+    },
+
+    {
+      "tag": "fixing timing belt recommendation",
+      "input": [
+        "I need to fix my timing belt",
+        "What materials and tools do I need to fix my timing belt?",
+        "Can you recommend materials and tools for fixing a timing belt?"
+      ],
+      "responses": [
+        "To fix a timing belt, you will need the following materials: replacement timing belt and possibly new tensioner, idler, or pulley. As for tools, you will need: socket set or wrench set, a timing belt tool kit, and a specialized tool that is required for your specific make and model of car. A coolant drain pan and a funnel may also be required."
+      ]
+    },
+
+    {
+      "tag": "fix_clutch",
+      "input": [
+        "How do I fix the clutch in my car?",
+        "What materials and tools do I need to replace the clutch in my vehicle?",
+        "I need to fix the clutch on my car, what should I use?"
+      ],
+      "responses": [
+        "To fix a clutch, you will typically need the following materials and tools: a new clutch kit, a jack and jack stands, a torque wrench, various socket and wrench sets, a clutch alignment tool, and possibly a pilot bearing puller. You may also need a new flywheel or pressure plate. It's recommended to consult the vehicle's service manual for the specific instructions for your car model."
+      ]
+    },
+
+    {
+      "tag": "replace_wheel_bearings",
+      "input": [
+        "I need to replace my car's wheel bearings",
+        "How do I replace the wheel bearings on my car?",
+        "What materials and tools do I need to replace wheel bearings in a car?"
+      ],
+      "responses": [
+        "To replace wheel bearings in a car, you will need a new set of wheel bearings, a wheel bearing press or a large C-clamp, a hammer, a socket set or open-end wrenches, and a torque wrench. You may also need a jack and jack stands to lift the car off the ground. It is also recommended to have a good quality mechanic to help with the process."
+      ]
+    },
+
+    {
+      "tag": "car_ball_joint_replacement",
+      "input": [
+        "how do I replace ball joints on my car",
+        "what materials and tools do I need to replace ball joints on my car",
+        "ball joint replacement for my car",
+        "replacing ball joints on my car"
+      ],
+      "responses": [
+        "To replace the ball joints on your car, you will need the following materials and tools: a ball joint press tool, a C-clamp, a pickle fork, a socket set, a torque wrench, and new ball joints. The process of replacing ball joints can be complex and may require some mechanical knowledge. It's recommended to consult your car's manual or a professional mechanic."
+      ]
+    },
+
+    {
+      "tag": "replace_suspension_bushings",
+      "input": [
+        "How do I replace suspension bushings on my car?",
+        "What materials and tools do I need to replace suspension bushings?",
+        "How to replace suspension bushings?"
+      ],
+      "responses": [
+        "To replace suspension bushings on your car, you will need the following materials and tools: New suspension bushings,  press or a large C-clamp, Grease or lubricant, Socket set or wrench set, Jack and jack stands, Measuring tape or ruler. The process of replacing suspension bushings will vary depending on the make and model of your car. Generally, you will need to remove the control arm or other suspension component that holds the bushings in place, press out the old bushings, lubricate and press in the new bushings and reassemble the suspension component. It is recommended to consult a repair manual for the specific instructions for your car or take it to a professional mechanic for this task. "
+      ]
+    },
+
+    {
+      "tag": "replace_tie_rod_ends",
+      "input": [
+        "how do I replace tie rod ends on my car",
+        "what materials and tools do I need to replace tie rod ends on my car",
+        "replacing tie rod ends on my car"
+      ],
+      "responses": [
+        "To replace tie rod ends on your car, you will need the following materials and tools: A tie rod end removal tool, A ball joint press, New tie rod ends, A socket set, A torque wrench, A cotter pin or new castle nut, An alignment tool (if you don't have it, you should have it done after replacement). The process of replacing the tie rod ends may vary based on the make and model of your car, so it's recommended to consult the vehicle's service manual or seek the help of a professional mechanic."
+      ]
+    },
+
+    {
+      "tag": "replace_transmission_fluid",
+      "input": [
+        "how do I replace the transmission fluid in my car",
+        "tools and materials needed to change transmission fluid",
+        "replacing transmission fluid in a car"
+      ],
+      "responses": [
+        "To replace the transmission fluid in your car, you will need a new transmission fluid, a transmission fluid pump, a drain pan, and a funnel. You will also need basic hand tools such as wrenches and sockets to remove the transmission oil pan. It's also recommended to use a jack and jack stands to support the vehicle while working on it. Before you begin, consult your vehicle's owner manual for specific instructions and recommendations for your make and model."
+      ]
+    },
+
+    {
+      "tag": "replace_drive_shaft",
+      "input": [
+        "How do I replace the drive shaft on my car?",
+        "What materials and tools do I need to replace the drive shaft?"
+      ],
+      "responses": [
+        "To replace the drive shaft on your car, you will need a new drive shaft, a jack and jack stands, a socket set, a torque wrench, and a variety of other tools such as pliers and wrenches. Depending on the make and model of your car, you may also need additional tools. The process of replacing the drive shaft typically involves jacking up the car, removing the old drive shaft, installing the new drive shaft and then aligning and torqueing all the bolts and connections. It's important to consult your car's service manual for specific instructions, safety precautions, and torque specs before starting the job."
+      ]
+    },
+
+    {
+      "tag": "replace_exhaust_system",
+      "input": [
+        "I need to replace my car's exhaust system",
+        "What materials and tools do I need to replace my exhaust?",
+        "How can I replace my car's exhaust system?"
+      ],
+      "responses": [
+        "To replace your car's exhaust system, you will need a new exhaust system kit, a jack and jack stands, a set of wrenches, socket set, and a sawzall or other cutting tool. It's also helpful to have a friend or helper to assist you. Make sure to consult your vehicle's service manual for specific instructions and precautions.",
+        "You'll need a new exhaust system kit, jack and jack stands, wrenches, sockets, and a sawzall or other cutting tool to replace your car's exhaust system. It's also helpful to have someone to assist you. Before starting the work, check the service manual for your car for specific instructions and precautions."
+      ]
+    },
+
+    {
+      "tag": "replace_engine_mount",
+      "input": [
+        "how do I replace the engine mount on my car?",
+        "What are the materials and tools needed to replace the engine mount on my car?",
+        "I need to replace the engine mount on my car, what should I know?"
+      ],
+      "responses": [
+        "Replacing an engine mount typically requires the following materials and tools: a new engine mount, jack stands, a jack, a torque wrench, and various sockets and wrenches. It's important to consult your vehicle's service manual for specific instructions and torque specifications. It's also important to make sure the vehicle is properly supported and the engine is secured before attempting to remove or replace any engine mount."
+      ]
+    },
+
+    {
+      "tag": "replace_throttle_body",
+      "input": [
+        "How do I replace the throttle body on my car?",
+        "What materials and tools do I need to replace the throttle body?",
+        "How can I replace the throttle body on my vehicle?"
+      ],
+      "responses": [
+        "To replace the throttle body on your car, you will need the following materials and tools: a new throttle body, a socket set, a flathead screwdriver, and a torque wrench. First, locate the throttle body on your engine and use the socket set to remove the bolts that hold it in place. Carefully remove the old throttle body and clean the mating surface of the intake manifold. Install the new throttle body and tighten the bolts to the manufacturer's specifications using the torque wrench. Finally, reconnect any electrical connections and test drive the vehicle to make sure the replacement was successful."
+      ]
+    },
+
+    {
+      "tag": "Mass_Airflow_Sensor_Recommendation",
+      "input": [
+        "What materials and tools do I need to replace a mass airflow sensor in a car?",
+        "What do I need to replace a mass airflow sensor in my car?",
+        "What are the recommended materials and tools for replacing a mass airflow sensor in a car?"
+      ],
+      "responses": [
+        "To replace a mass airflow sensor in a car, you will need the following materials and tools: a new mass airflow sensor, a flathead screwdriver, a Phillips head screwdriver, and a ratchet set with sockets. It's also recommended to have a torque wrench on hand to ensure proper installation of the new sensor."
+      ]
+    },
+
+    {
+      "tag": "Car Power Steering Pump Replacement Materials and Tools",
+      "input": [
+        "What materials and tools do I need to replace a power steering pump in a car?",
+        "What do I need to replace a power steering pump in my car?",
+        "What are the recommended materials and tools for replacing a power steering pump in a car?"
+      ],
+      "responses": [
+        "To replace a power steering pump in a car, you will need the following materials and tools: a new power steering pump, a power steering pump pulley removal tool, a serpentine belt tool, a power steering hose disconnect tool, a flathead screwdriver, a Phillips head screwdriver, and a ratchet set with sockets. It's also recommended to have a torque wrench on hand to ensure proper installation of the new pump."
+      ]
+    },
+
+    {
+      "tag": "Car Brake Rotor Replacement Materials and Tools",
+      "input": [
+        "What materials and tools do I need to replace brake rotors on a car?",
+        "What do I need to replace brake rotors on my car?",
+        "What are the recommended materials and tools for replacing brake rotors on a car?"
+      ],
+      "responses": [
+        "To replace brake rotors on a car, you will need the following materials and tools: new brake rotors, brake pads, a brake caliper tool, a lug nut wrench, a C-clamp, a jack and jack stands, and a torque wrench. It's also recommended to have a wire brush and brake cleaner on hand to clean the brake calipers and hub before installing the new rotors."
+      ]
+    },
+
+    {
+      "tag": "Car Timing Chain Replacement Materials and Tools",
+      "input": [
+        "What materials and tools do I need to replace a timing chain in a car?",
+        "What do I need to replace a timing chain in my car?",
+        "What are the recommended materials and tools for replacing a timing chain in a car?"
+      ],
+      "responses": [
+        "To replace a timing chain in a car, you will need the following materials and tools: a new timing chain, timing chain tensioner, timing chain guide, and a special tool kit to hold the camshafts and crankshaft in position. Also, you will likely need a socket set, a torque wrench, and a timing light or a camshaft alignment tool, and a engine support or lift tool. It's also recommended to have a service manual for the specific make and model of the car to ensure proper installation."
+      ]
+    },
+
+    {
+      "tag": "Car Throttle Position Sensor Replacement Materials and Tools",
+      "input": [
+        "What materials and tools do I need to replace a throttle position sensor in a car?",
+        "What do I need to replace a throttle position sensor in my car?",
+        "What are the recommended materials and tools for replacing a throttle position sensor in a car?"
+      ],
+      "responses": [
+        "To replace a throttle position sensor in a car, you will need the following materials and tools: a new throttle position sensor, a flathead screwdriver, a Phillips head screwdriver, and a ratchet set with sockets. It's also recommended to have a torque wrench on hand to ensure proper installation of the new sensor. It is also recommended to have a service manual for the specific make and model of the car to ensure proper removal and installation."
+      ]
+    },
+
+    {
+      "tag": "Car Camshaft Position Sensor Replacement Materials and Tools",
+      "input": [
+        "What materials and tools do I need to replace a camshaft position sensor in a car?",
+        "What do I need to replace a camshaft position sensor in my car?",
+        "What are the recommended materials and tools for replacing a camshaft position sensor in a car?"
+      ],
+      "responses": [
+        "To replace a camshaft position sensor in a car, you will need the following materials and tools: a new camshaft position sensor, a flathead screwdriver, a Phillips head screwdriver, a ratchet set with sockets, and a camshaft position sensor puller tool. It's also recommended to have a torque wrench on hand to ensure proper installation of the new sensor. It is also recommended to have a service manual for the specific make and model of the car to ensure proper removal and installation."
+      ]
+    },
+
+    {
+      "tag": "Car Knock Sensor Replacement Materials and Tools",
+      "input": [
+        "What materials and tools do I need to replace a knock sensor in a car?",
+        "What do I need to replace a knock sensor in my car?",
+        "What are the recommended materials and tools for replacing a knock sensor in a car?"
+      ],
+      "responses": [
+        "To replace a knock sensor in a car, you will need the following materials and tools: a new knock sensor, a ratchet set with sockets, and a knock sensor socket tool. It's also recommended to have a torque wrench on hand to ensure proper installation of the new sensor. It is also recommended to have a service manual for the specific make and model of the car to ensure proper removal and installation."
+      ]
+    },
+
+    {
+      "tag": "Car Engine Control Module Replacement Materials and Tools",
+      "input": [
+        "What materials and tools do I need to replace an engine control module in a car?",
+        "What do I need to replace an engine control module in my car?",
+        "What are the recommended materials and tools for replacing an engine control module in a car?"
+      ],
+      "responses": [
+        "To replace an engine control module in a car, you will need the following materials and tools: a new engine control module that is compatible with your specific make and model of car, a flathead screwdriver, a Phillips head screwdriver, a ratchet set with sockets, and a computer diagnostic tool for reprogramming the new engine control module. It is also recommended to have a service manual for the specific make and model of the car to ensure proper removal and installation."
+      ]
+    },
+
+    {
+      "tag": "Car Fuel Injector Replacement Materials and Tools",
+      "input": [
+        "What materials and tools do I need to replace fuel injectors in a car?",
+        "What do I need to replace fuel injectors in my car?",
+        "What are the recommended materials and tools for replacing fuel injectors in a car?"
+      ],
+      "responses": [
+        "To replace fuel injectors in a car, you will need the following materials and tools: new fuel injectors that are compatible with your specific make and model of car, a fuel injector puller tool, a flathead screwdriver, a Phillips head screwdriver, a ratchet set with sockets, and a fuel pressure gauge. It's also recommended to have a service manual for the specific make and model of the car to ensure proper removal and installation. Additionally, you will also need a cleaning solution for cleaning the engine and the new injectors before installing them."
+      ]
+    },
+
+    {
+      "tag": "Car Idler Arm Replacement Materials and Tools",
+      "input": [
+        "What materials and tools do I need to replace an idler arm in a car?",
+        "What do I need to replace an idler arm in my car?",
+        "What are the recommended materials and tools for replacing an idler arm in a car?"
+      ],
+      "responses": [
+        "To replace an idler arm in a car, you will need the following materials and tools: a new idler arm that is compatible with your specific make and model of car, a ball joint press, a tie rod end puller, a pitman arm puller, a flathead screwdriver, a Phillips head screwdriver, a ratchet set with sockets, and a torque wrench. It's also recommended to have a service manual for the specific make and model of the car to ensure proper removal and installation."
+      ]
+    },
+
+    {
+      "tag": "Car Pitman Arm Replacement Materials and Tools",
+      "input": [
+        "What materials and tools do I need to replace a Pitman arm in a car?",
+        "What do I need to replace a Pitman arm in my car?",
+        "What are the recommended materials and tools for replacing a Pitman arm in a car?"
+      ],
+      "responses": [
+        "To replace a Pitman arm in a car, you will need the following materials and tools: a new Pitman arm that is compatible with your specific make and model of car, a Pitman arm puller, a tie rod end puller, a flathead screwdriver, a Phillips head screwdriver, a ratchet set with sockets, and a torque wrench. It's also recommended to have a service manual for the specific make and model of the car to ensure proper removal and installation."
+      ]
+    },
+
+    {
+      "tag": "Car Control Arm Replacement Materials and Tools",
+      "input": [
+        "What materials and tools do I need to replace a control arm in a car?",
+        "What do I need to replace a control arm in my car?",
+        "What are the recommended materials and tools for replacing a control arm in a car?"
+      ],
+      "responses": [
+        "To replace a control arm in a car, you will need the following materials and tools: a new control arm that is compatible with your specific make and model of car, a ball joint press, a tie rod end puller, a flathead screwdriver, a Phillips head screwdriver, a ratchet set with sockets, and a torque wrench. It's also recommended to have a service manual for the specific make and model of the car to ensure proper removal and installation. Additionally, you may also need a spring compressor tool or a spring removal tool if the control arm is connected with the spring."
+      ]
+    },
+
+    {
+      "tag": "Car Swaybar Link Replacement Materials and Tools",
+      "input": [
+        "What materials and tools do I need to replace swaybar links in a car?",
+        "What do I need to replace swaybar links in my car?",
+        "What are the recommended materials and tools for replacing swaybar links in a car?"
+      ],
+      "responses": [
+        "To replace swaybar links in a car, you will need the following materials and tools: new swaybar links that are compatible with your specific make and model of car, a ratchet set with sockets, and a swaybar link tool. It's also recommended to have a service manual for the specific make and model of the car to ensure proper removal and installation."
+      ]
+    },
+
+    {
+      "tag": "Car Axle Replacement Materials and Tools",
+      "input": [
+        "What materials and tools do I need to replace axles in a car?",
+        "What do I need to replace axles in my car?",
+        "What are the recommended materials and tools for replacing axles in a car?"
+      ],
+      "responses": [
+        "To replace axles in a car, you will need the following materials and tools: new axles that are compatible with your specific make and model of car, a jack and jack stands, a lug nut wrench, a ball joint separator or a pickle fork, a C-clamp, a ratchet set with sockets, and a torque wrench. It's also recommended to have a service manual for the specific make and model of the car to ensure proper removal and installation."
+      ]
+    },
+
+    {
+      "tag": "Car Power Steering Hose Replacement Materials and Tools",
+      "input": [
+        "What materials and tools do I need to replace a power steering hose in a car?",
+        "What do I need to replace a power steering hose in my car?",
+        "What are the recommended materials and tools for replacing a power steering hose in a car?"
+      ],
+      "responses": [
+        "To replace a power steering hose in a car, you will need the following materials and tools: a new power steering hose that is compatible with your specific make and model of car, a power steering hose disconnect tool, a pair of pliers, a ratchet set with sockets, and a torque wrench. It's also recommended to have a service manual for the specific make and model of the car to ensure proper removal and installation."
+      ]
+    },
+
+    {
+      "tag": "Car Fuel Tank Replacement Materials and Tools",
+      "input": [
+        "What materials and tools do I need to replace a fuel tank in a car?",
+        "What do I need to replace a fuel tank in my car?",
+        "What are the recommended materials and tools for replacing a fuel tank in a car?"
+      ],
+      "responses": [
+        "To replace a fuel tank in a car, you will need the following materials and tools: a new fuel tank that is compatible with your specific make and model of car, a fuel tank removal tool, a fuel line disconnect tool, a pair of pliers, a ratchet set with sockets, and a torque wrench. It's also recommended to have a service manual for the specific make and model of the car to ensure proper removal and installation. Additionally, you may also need a fuel pump removal tool and a fuel level sender removal tool if you are replacing those parts as well."
+      ]
+    },
+    {
+      "tag": "Car Fuel Filter Neck Replacement Materials and Tools",
+      "input": [
+        "What materials and tools do I need to replace a fuel filter neck in a car?",
+        "What do I need to replace a fuel filter neck in my car?",
+        "What are the recommended materials and tools for replacing a fuel filter neck in a car?"
+      ],
+      "responses": [
+        "To replace a fuel filter neck in a car, you will need the following materials and tools: a new fuel filter neck that is compatible with your specific make and model of car, a fuel line disconnect tool, a pair of pliers, a ratchet set with sockets, and a torque wrench. It's also recommended to have a service manual for the specific make and model of the car to ensure proper removal and installation."
+      ]
+    },
+    {
+      "tag": "Car Fuel Level Sender Replacement Materials and Tools",
+      "input": [
+        "What materials and tools do I need to replace a fuel level sender in a car?",
+        "What do I need to replace a fuel level sender in my car?",
+        "What are the recommended materials and tools for replacing a fuel level sender in a car?"
+      ],
+      "responses": [
+        "To replace a fuel level sender in a car, you will need the following materials and tools: a new fuel level sender that is compatible with your specific make and model of car, a fuel level sender removal tool, a flathead screwdriver, a Phillips head screwdriver, a ratchet set with sockets, and a torque wrench. It's also recommended to have a service manual for the specific make and model of the car to ensure proper removal and installation."
+      ]
+    },
+
+    {
+      "tag": "Car Fuel Pump Relay Replacement Materials and Tools",
+      "input": [
+        "What materials and tools do I need to replace a fuel pump relay in a car?",
+        "What do I need to replace a fuel pump relay in my car?",
+        "What are the recommended materials and tools for replacing a fuel pump relay in a car?"
+      ],
+      "responses": [
+        "To replace a fuel pump relay in a car, you will need the following materials and tools: a new fuel pump relay that is compatible with your specific make and model of car, a test light or multimeter, a Phillips head screwdriver, and a socket set. It's also recommended to have a service manual for the specific make and model of the car to ensure proper removal and installation. Additionally, you may also need a relay puller tool, which is specially designed to remove the relay from the socket."
+      ]
+    },
+
+    {
+      "tag": "Car Transmission Oil Cooler Replacement Materials and Tools",
+      "input": [
+        "What materials and tools do I need to replace a transmission oil cooler in a car?",
+        "What do I need to replace a transmission oil cooler in my car?",
+        "What are the recommended materials and tools for replacing a transmission oil cooler in a car?"
+      ],
+      "responses": [
+        "To replace a transmission oil cooler in a car, you will need the following materials and tools: a new transmission oil cooler that is compatible with your specific make and model of car, a transmission oil cooler line disconnect tool, a drain pan, a transmission jack, a socket set, a torque wrench and a sealant. It's also recommended to have a service manual for the specific make and model of the car to ensure proper removal and installation. Additionally, you may also need a transmission oil cooler hose clamp pliers to access and remove the hoses properly."
+      ]
+    },
+
+    {
+      "tag": "Car Transmission Filter Replacement Materials and Tools",
+      "input": [
+        "What materials and tools do I need to replace a transmission filter in a car?",
+        "What do I need to replace a transmission filter in my car?",
+        "What are the recommended materials and tools for replacing a transmission filter in a car?"
+      ],
+      "responses": [
+        "To replace a transmission filter in a car, you will need the following materials and tools: a new transmission filter that is compatible with your specific make and model of car, a transmission pan gasket, a drain pan, a transmission jack, a socket set, a torque wrench and a sealant. It's also recommended to have a service manual for the specific make and model of the car to ensure proper removal and installation. Additionally, you may also need a transmission oil filter pliers to access and remove the filter properly."
+      ]
+    },
+
+    {
+      "tag": "Car Transmission Pan Gasket Replacement Materials and Tools",
+      "input": [
+        "What materials and tools do I need to replace a transmission pan gasket in a car?",
+        "What do I need to replace a transmission pan gasket in my car?",
+        "What are the recommended materials and tools for replacing a transmission pan gasket in a car?"
+      ],
+      "responses": [
+        "To replace a transmission pan gasket in a car, you will need the following materials and tools: a new transmission pan gasket that is compatible with your specific make and model of car, a drain pan, a transmission jack, a socket set, a torque wrench and a sealant. It's also recommended to have a service manual for the specific make and model of the car to ensure proper removal and installation. Additionally, you may also need a transmission pan bolt and drain plug gasket to replace the whole transmission pan."
+      ]
+    },
+
+    {
+      "tag": "Car Transmission Valve Body Replacement Materials and Tools",
+      "input": [
+        "What materials and tools do I need to replace a transmission valve body in a car?",
+        "What do I need to replace a transmission valve body in my car?",
+        "What are the recommended materials and tools for replacing a transmission valve body in a car?"
+      ],
+      "responses": [
+        "To replace a transmission valve body in a car, you will need the following materials and tools: a new transmission valve body that is compatible with your specific make and model of car, a transmission jack, a socket set, a torque wrench, a sealant and a transmission pan gasket. It's also recommended to have a service manual for the specific make and model of the car to ensure proper removal and installation. Additionally, you may also need a transmission valve body gasket, a transmission valve body solenoid and a transmission valve body filter."
+      ]
+    },
+
+    {
+      "tag": "Car Transmission Solenoid Replacement Materials and Tools",
+      "input": [
+        "What materials and tools do I need to replace a transmission solenoid in a car?",
+        "What do I need to replace a transmission solenoid in my car?",
+        "What are the recommended materials and tools for replacing a transmission solenoid in a car?"
+      ],
+      "responses": [
+        "To replace a transmission solenoid in a car, you will need the following materials and tools: a new transmission solenoid that is compatible with your specific make and model of car, a transmission jack, a socket set, a torque wrench, a sealant and a transmission pan gasket. It's also recommended to have a service manual for the specific make and model of the car to ensure proper removal and installation. Additionally, you may also need a transmission solenoid valve body gasket, a transmission solenoid filter and a transmission solenoid connector."
+      ]
+    },
+
+    {
+      "tag": "Car Torque Converter Replacement Materials and Tools",
+      "input": [
+        "What materials and tools do I need to replace a torque converter in a car?",
+        "What do I need to replace a torque converter in my car?",
+        "What are the recommended materials and tools for replacing a torque converter in a car?"
+      ],
+      "responses": [
+        "To replace a torque converter in a car, you will need the following materials and tools: a new torque converter that is compatible with your specific make and model of car, a transmission jack, a socket set, a torque wrench, a sealant, a transmission pan gasket and a torque converter alignment tool. It's also recommended to have a service manual for the specific make and model of the car to ensure proper removal and installation. Additionally, you may also need a transmission oil cooler hose clamp pliers to access and remove the hoses properly and some other special tools depend on the specific vehicle."
+      ]
+    },
+
+    {
+      "tag": "Car Flexplate Replacement Materials and Tools",
+      "input": [
+        "What materials and tools do I need to replace a flexplate in a car?",
+        "What do I need to replace a flexplate in my car?",
+        "What are the recommended materials and tools for replacing a flexplate in a car?"
+      ],
+      "responses": [
+        "To replace a flexplate in a car, you will need the following materials and tools: a new flexplate that is compatible with your specific make and model of car, a transmission jack, a socket set, a torque wrench, a sealant, a transmission pan gasket and a flexplate installation tool. It's also recommended to have a service manual for the specific make and model of the car to ensure proper removal and installation. Additionally, you may also need a harmonic balancer puller tool to remove the harmonic balancer and a pilot bushing puller tool to remove the pilot bushing."
+      ]
+    },
+
+    {
+      "tag": "Car Transmission Band Replacement Materials and Tools",
+      "input": [
+        "What materials and tools do I need to replace a transmission band in a car?",
+        "What do I need to replace a transmission band in my car?",
+        "What are the recommended materials and tools for replacing a transmission band in a car?"
+      ],
+      "responses": [
+        "To replace a transmission band in a car, you will need the following materials and tools: a new transmission band that is compatible with your specific make and model of car, a transmission jack, a socket set, a torque wrench, a sealant, a transmission pan gasket and a transmission band adjustment tool. It's also recommended to have a service manual for the specific make and model of the car to ensure proper removal and installation."
+      ]
+    },
+
+    {
+      "tag": "Car Governor Replacement Materials and Tools",
+      "input": [
+        "What materials and tools do I need to replace a governor in a car?",
+        "What do I need to replace a governor in my car?",
+        "What are the recommended materials and tools for replacing a governor in a car?"
+      ],
+      "responses": [
+        "To replace a governor in a car, you will need the following materials and tools: a new governor that is compatible with your specific make and model of car, a transmission jack, a socket set, a torque wrench, a sealant, a transmission pan gasket and a governor adjustment tool. It's also recommended to have a service manual for the specific make and model of the car to ensure proper removal and installation. Additionally, you may also need a special governor removal tool that is specific to the make and model of the car."
+      ]
+    },
+
+    {
+      "tag": "Car Kickdown Cable Replacement Materials and Tools",
+      "input": [
+        "What materials and tools do I need to replace a kickdown cable in a car?",
+        "What do I need to replace a kickdown cable in my car?",
+        "What are the recommended materials and tools for replacing a kickdown cable in a car?"
+      ],
+      "responses": [
+        "To replace a kickdown cable in a car, you will need the following materials and tools: a new kickdown cable that is compatible with your specific make and model of car, a socket set, a torque wrench, a sealant, and a kickdown cable adjustment tool. It's also recommended to have a service manual for the specific make and model of the car to ensure proper removal and installation."
+      ]
+    },
+
+    {
+      "tag": "Car Range Sensor Replacement Materials and Tools",
+      "input": [
+        "What materials and tools do I need to replace a range sensor in a car?",
+        "What do I need to replace a range sensor in my car?",
+        "What are the recommended materials and tools for replacing a range sensor in a car?"
+      ],
+      "responses": [
+        "To replace a range sensor in a car, you will need the following materials and tools: a new range sensor that is compatible with your specific make and model of car, a socket set, a torque wrench, and a sealant. It's also recommended to have a service manual for the specific make and model of the car to ensure proper removal and installation. Additionally, you may also need a specialized tool such as a range sensor puller or a range sensor connector tool to properly remove and install the sensor."
+      ]
+    },
+
+    {
+      "tag": "Car Speed Sensor Replacement Materials and Tools",
+      "input": [
+        "What materials and tools do I need to replace a speed sensor in a car?",
+        "What do I need to replace a speed sensor in my car?",
+        "What are the recommended materials and tools for replacing a speed sensor in a car?"
+      ],
+      "responses": [
+        "To replace a speed sensor in a car, you will need the following materials and tools: a new speed sensor that is compatible with your specific make and model of car, a socket set, a torque wrench, and a sealant. It's also recommended to have a service manual for the specific make and model of the car to ensure proper removal and installation. Additionally, you may also need a specialized tool such as a speed sensor puller or a speed sensor connector tool to properly remove and install the sensor."
+      ]
+    },
+
+    {
+      "tag": "Car Pressure Control Solenoid Replacement Materials and Tools",
+      "input": [
+        "What materials and tools do I need to replace a pressure control solenoid in a car?",
+        "What do I need to replace a pressure control solenoid in my car?",
+        "What are the recommended materials and tools for replacing a pressure control solenoid in a car?"
+      ],
+      "responses": [
+        "To replace a pressure control solenoid in a car, you will need the following materials and tools: a new pressure control solenoid that is compatible with your specific make and model of car, a socket set, a torque wrench, and a sealant. It's also recommended to have a service manual for the specific make and model of the car to ensure proper removal and installation. Additionally, you may also need a specialized tool such as a pressure control solenoid connector tool, a transmission pan gasket, and a transmission fluid filter to properly remove and install the solenoid."
+      ]
+    },
+
+    {
+      "tag": "Car Oil Filter Adapter Replacement Materials and Tools",
+      "input": [
+        "What materials and tools do I need to replace an oil filter adapter in a car?",
+        "What do I need to replace an oil filter adapter in my car?",
+        "What are the recommended materials and tools for replacing an oil filter adapter in a car?"
+      ],
+      "responses": [
+        "To replace an oil filter adapter in a car, you will need the following materials and tools: a new oil filter adapter that is compatible with your specific make and model of car, a socket set, a torque wrench, a sealant, and oil filter adapter gasket . It's also recommended to have a service manual for the specific make and model of the car to ensure proper removal and installation. Additionally, you may also need a specialized tool such as oil filter adapter wrench and a oil drain pan to properly remove and install the adapter."
+      ]
+    },
+
+    {
+      "tag": "Car Oil Pressure Sensor Replacement Materials and Tools",
+      "input": [
+        "What materials and tools do I need to replace an oil pressure sensor in a car?",
+        "What do I need to replace an oil pressure sensor in my car?",
+        "What are the recommended materials and tools for replacing an oil pressure sensor in a car?"
+      ],
+      "responses": [
+        "To replace an oil pressure sensor in a car, you will need the following materials and tools: a new oil pressure sensor that is compatible with your specific make and model of car, a socket set, a torque wrench, and a sealant. It's also recommended to have a service manual for the specific make and model of the car to ensure proper removal and installation. Additionally, you may also need specialized tools such as an oil pressure sensor removal tool, a vacuum pump and a pressure gauge to properly test the sensor."
+      ]
+    },
+    {
+      "tag": "Car Oil Cooler Hose Replacement Materials and Tools",
+      "input": [
+        "What materials and tools do I need to replace an oil cooler hose in a car?",
+        "What do I need to replace an oil cooler hose in my car?",
+        "What are the recommended materials and tools for replacing an oil cooler hose in a car?"
+      ],
+      "responses": [
+        "To replace an oil cooler hose in a car, you will need the following materials and tools: a new oil cooler hose that is compatible with your specific make and model of car, a socket set, a torque wrench, hose clamps, sealant, and a oil drain pan. It's also recommended to have a service manual for the specific make and model of the car to ensure proper removal and installation. Additionally, you may also need specialized tools such as oil cooler hose removal tool and a hose pick to properly remove and install the oil cooler hose."
+      ]
+    },
+
+    {
+      "tag": "Car Oil Pressure Switch Replacement Materials and Tools",
+      "input": [
+        "What materials and tools do I need to replace an oil pressure switch in a car?",
+        "What do I need to replace an oil pressure switch in my car?",
+        "What are the recommended materials and tools for replacing an oil pressure switch in a car?"
+      ],
+      "responses": [
+        "To replace an oil pressure switch in a car, you will need the following materials and tools: a new oil pressure switch that is compatible with your specific make and model of car, a socket set, and a sealant. It's also recommended to have a service manual for the specific make and model of the car to ensure proper removal and installation. Additionally, you may also need specialized tools such as an oil pressure switch removal tool, a vacuum pump and a pressure gauge to properly test the switch."
+      ]
+    },
+
+    {
+      "tag": "Car Oil Cooler Lines Replacement Materials and Tools",
+      "input": [
+        "What materials and tools do I need to replace oil cooler lines in a car?",
+        "What do I need to replace oil cooler lines in my car?",
+        "What are the recommended materials and tools for replacing oil cooler lines in a car?"
+      ],
+      "responses": [
+        "To replace oil cooler lines in a car, you will need the following materials and tools: new oil cooler lines that are compatible with your specific make and model of car, a socket set, a torque wrench, hose clamps, sealant, and a oil drain pan. It's also recommended to have a service manual for the specific make and model of the car to ensure proper removal and installation. Additionally, you may also need specialized tools such as oil cooler lines removal tool, a line wrench and a hose pick to properly remove and install the oil cooler lines."
+      ]
+    },
+
+    {
+      "tag": "Car Oil Cooler Thermostat Replacement Materials and Tools",
+      "input": [
+        "What materials and tools do I need to replace an oil cooler thermostat in a car?",
+        "What do I need to replace an oil cooler thermostat in my car?",
+        "What are the recommended materials and tools for replacing an oil cooler thermostat in a car?"
+      ],
+      "responses": [
+        "To replace an oil cooler thermostat in a car, you will need the following materials and tools: a new oil cooler thermostat that is compatible with your specific make and model of car, a socket set, a torque wrench, sealant, and a oil drain pan. It's also recommended to have a service manual for the specific make and model of the car to ensure proper removal and installation. Additionally, you may also need specialized tools such as oil cooler thermostat removal tool, a line wrench and a hose pick to properly remove and install the oil cooler thermostat."
+      ]
+    },
+
+    {
+      "tag": "Car Oil Filter Housing Replacement Materials and Tools",
+      "input": [
+        "What materials and tools do I need to replace an oil filter housing in a car?",
+        "What do I need to replace an oil filter housing in my car?",
+        "What are the recommended materials and tools for replacing an oil filter housing in a car?"
+      ],
+      "responses": [
+        "To replace an oil filter housing in a car, you will need the following materials and tools: a new oil filter housing that is compatible with your specific make and model of car, a socket set, a torque wrench, sealant, and a oil drain pan. It's also recommended to have a service manual for the specific make and model of the car to ensure proper removal and installation. Additionally, you may also need specialized tools such as oil filter housing removal tool and a oil filter housing gasket."
+      ]
+    },
+
+    {
+      "tag": "Car Oil Filter Stand Pipe Replacement Materials and Tools",
+      "input": [
+        "What materials and tools do I need to replace an oil filter stand pipe in a car?",
+        "What do I need to replace an oil filter stand pipe in my car?",
+        "What are the recommended materials and tools for replacing an oil filter stand pipe in a car?"
+      ],
+      "responses": [
+        "To replace an oil filter stand pipe in a car, you will need the following materials and tools: a new oil filter stand pipe that is compatible with your specific make and model of car, a socket set, a torque wrench, sealant, and a oil drain pan. It's also recommended to have a service manual for the specific make and model of the car to ensure proper removal and installation. Additionally, you may also need specialized tools such as oil filter stand pipe removal tool and a oil filter stand pipe gasket."
+      ]
+    },
+
+    {
+      "tag": "Car Oil Filter Bypass Valve Replacement Materials and Tools",
+      "input": [
+        "What materials and tools do I need to replace an oil filter bypass valve in a car?",
+        "What do I need to replace an oil filter bypass valve in my car?",
+        "What are the recommended materials and tools for replacing an oil filter bypass valve in a car?"
+      ],
+      "responses": [
+        "To replace an oil filter bypass valve in a car, you will need the following materials and tools: a new oil filter bypass valve that is compatible with your specific make and model of car, a socket set, sealant, and a oil drain pan. It's also recommended to have a service manual for the specific make and model of the car to ensure proper removal and installation. Additionally, you may also need specialized tools such as oil filter bypass valve removal tool and a oil filter bypass valve gasket."
+      ]
+    },
+
+    {
+      "tag": "Car Oil Filter Adapter Gasket Replacement Materials and Tools",
+      "input": [
+        "What materials and tools do I need to replace an oil filter adapter gasket in a car?",
+        "What do I need to replace an oil filter adapter gasket in my car?",
+        "What are the recommended materials and tools for replacing an oil filter adapter gasket in a car?"
+      ],
+      "responses": [
+        "To replace an oil filter adapter gasket in a car, you will need the following materials and tools: a new oil filter adapter gasket that is compatible with your specific make and model of car, a socket set, sealant, and a oil drain pan. It's also recommended to have a service manual for the specific make and model of the car to ensure proper removal and installation. Additionally, you may also need specialized tools such as oil filter adapter gasket removal tool and a oil filter adapter gasket."
+      ]
+    },
+
+    {
+      "tag": "Car Valve Cover Gasket Replacement Materials and Tools",
+      "input": [
+        "What materials and tools do I need to replace a valve cover gasket in a car?",
+        "What do I need to replace a valve cover gasket in my car?",
+        "What are the recommended materials and tools for replacing a valve cover gasket in a car?"
+      ],
+      "responses": [
+        "To replace a valve cover gasket in a car, you will need the following materials and tools: a new valve cover gasket that is compatible with your specific make and model of car, a socket set, a torque wrench, sealant, and a gasket scraper. It's also recommended to have a service manual for the specific make and model of the car to ensure proper removal and installation. Additionally, you may also need specialized tools such as valve cover gasket removal tool and a valve cover gasket."
+      ]
+    },
+
+    {
+      "tag": "Car Valve Stem Seals Replacement Materials and Tools",
+      "input": [
+        "What materials and tools do I need to replace valve stem seals in a car?",
+        "What do I need to replace valve stem seals in my car?",
+        "What are the recommended materials and tools for replacing valve stem seals in a car?"
+      ],
+      "responses": [
+        "To replace valve stem seals in a car, you will need the following materials and tools: new valve stem seals that are compatible with your specific make and model of car, a valve spring compressor, a seal installer tool, a valve seal removal tool, a torque wrench, and a service manual for your specific make and model of car. Additionally, you may also need lubricant, cleaning solutions and sealant to clean the valve guides, and you may also need specialized tools such as valve spring compressor and a seal installer tool."
+      ]
+    },
+
+    {
+      "tag": "Car Valve Spring Replacement Materials and Tools",
+      "input": [
+        "What materials and tools do I need to replace valve springs in a car?",
+        "What do I need to replace valve springs in my car?",
+        "What are the recommended materials and tools for replacing valve springs in a car?"
+      ],
+      "responses": [
+        "To replace valve springs in a car, you will need the following materials and tools: new valve springs that are compatible with your specific make and model of car, a valve spring compressor, a seal installer tool, a torque wrench, and a service manual for your specific make and model of car. Additionally, you may also need lubricant, cleaning solutions and sealant to clean the valve guides, and you may also need specialized tools such as valve spring compressor and a seal installer tool."
+      ]
+    },
+
+    {
+      "tag": "Car Valve Lifter Replacement Materials and Tools",
+      "input": [
+        "What materials and tools do I need to replace valve lifters in a car?",
+        "What do I need to replace valve lifters in my car?",
+        "What are the recommended materials and tools for replacing valve lifters in a car?"
+      ],
+      "responses": [
+        "To replace valve lifters in a car, you will need the following materials and tools: new valve lifters that are compatible with your specific make and model of car, a valve spring compressor, a seal installer tool, a torque wrench, a engine oil drain pan, and a service manual for your specific make and model of car. Additionally, you may also need specialized tools such as valve lifter removal tool and a valve lifter installation tool."
+      ]
+    },
+
+    {
+      "tag": "Car Valve Rotator Replacement Materials and Tools",
+      "input": [
+        "What materials and tools do I need to replace valve rotators in a car?",
+        "What do I need to replace valve rotators in my car?",
+        "What are the recommended materials and tools for replacing valve rotators in a car?"
+      ],
+      "responses": [
+        "Valve rotators are not a common replacement part in most vehicles. They are not typically found in internal combustion engines. It is possible that you may be referring to valve rotators in a diesel engine, but these are typically part of the engine and are not user serviceable. Please provide more information about the specific make and model of the car so I can give more accurate and detailed response."
+      ]
+    },
+
+    {
+      "tag": "Car Valve Guide Replacement Materials and Tools",
+      "input": [
+        "What materials and tools do I need to replace valve guides in a car?",
+        "What do I need to replace valve guides in my car?",
+        "What are the recommended materials and tools for replacing valve guides in a car?"
+      ],
+      "responses": [
+        "To replace valve guides in a car, you will need the following materials and tools: new valve guides that are compatible with your specific make and model of car, a valve spring compressor, a seal installer tool, a valve guide reamer, a valve guide driver, a torque wrench, and a service manual for your specific make and model of car. Additionally, you may also need lubricant, cleaning solutions, and sealant to clean the valve guides and a valve guide removal tool."
+      ]
+    },
+
+    {
+      "tag": "Car Timing Chain Replacement Materials and Tools",
+      "input": [
+        "What materials and tools do I need to replace timing chain in a car?",
+        "What do I need to replace timing chain in my car?",
+        "What are the recommended materials and tools for replacing timing chain in a car?"
+      ],
+      "responses": [
+        "To replace the timing chain in a car, you will need the following materials and tools: a new timing chain that is compatible with your specific make and model of car, a timing chain tensioner, a timing chain guide, a timing cover gasket, a crankshaft locking tool, a camshaft locking tool, a timing chain tool, a torque wrench, and a service manual for your specific make and model of car. Additionally, you may also need special tools such as a chain tensioner tool, a chain guide tool and a special timing chain tool."
+      ]
+    },
+
+    {
+      "tag": "Car Timing Chain Tensioner Replacement Materials and Tools",
+      "input": [
+        "What materials and tools do I need to replace timing chain tensioner in a car?",
+        "What do I need to replace timing chain tensioner in my car?",
+        "What are the recommended materials and tools for replacing timing chain tensioner in a car?"
+      ],
+      "responses": [
+        "To replace the timing chain tensioner in a car, you will need the following materials and tools: a new timing chain tensioner that is compatible with your specific make and model of car, a timing cover gasket, a crankshaft locking tool, a camshaft locking tool, a torque wrench, and a service manual for your specific make and model of car. Additionally, you may also need special tools such as a chain tensioner tool, a chain guide tool and a special timing chain tool to complete the job."
+      ]
+    },
+
+    {
+      "tag": "Car Timing Chain Guide Replacement Materials and Tools",
+      "input": [
+        "What materials and tools do I need to replace timing chain guide in a car?",
+        "What do I need to replace timing chain guide in my car?",
+        "What are the recommended materials and tools for replacing timing chain guide in a car?"
+      ],
+      "responses": [
+        "To replace the timing chain guide in a car, you will need the following materials and tools: a new timing chain guide that is compatible with your specific make and model of car, a timing cover gasket, a crankshaft locking tool, a camshaft locking tool, a torque wrench, and a service manual for your specific make and model of car. Additionally, you may also need special tools such as a chain tensioner tool, a chain guide tool and a special timing chain tool to remove the old guide and install the new one."
+      ]
+    },
+
+    {
+      "tag": "Car Timing Cover Replacement Materials and Tools",
+      "input": [
+        "What materials and tools do I need to replace timing cover in a car?",
+        "What do I need to replace timing cover in my car?",
+        "What are the recommended materials and tools for replacing timing cover in a car?"
+      ],
+      "responses": [
+        "To replace the timing cover in a car, you will need the following materials and tools: a new timing cover that is compatible with your specific make and model of car, a new timing cover gasket, a crankshaft locking tool, a camshaft locking tool, a torque wrench, a set of metric sockets, a set of combination wrenches, a flat head screw driver, a sealant, and a service manual for your specific make and model of car. Additionally, you may also need special tools such as a gasket scraper or sealant remover to clean the surface of the engine block before installing the new cover."
+      ]
+    },
+
+    {
+      "tag": "Car Timing Cover Gasket Replacement Materials and Tools",
+      "input": [
+        "What materials and tools do I need to replace timing cover gasket in a car?",
+        "What do I need to replace timing cover gasket in my car?",
+        "What are the recommended materials and tools for replacing timing cover gasket in a car?"
+      ],
+      "responses": [
+        "To replace the timing cover gasket in a car, you will need the following materials and tools: a new timing cover gasket that is compatible with your specific make and model of car, a timing cover gasket sealant, a crankshaft locking tool, a camshaft locking tool, a torque wrench, a set of metric sockets, a set of combination wrenches, a flat head screw driver, a gasket scraper, a sealant remover, and a service manual for your specific make and model of car."
+      ]
+    },
+
+    {
+      "tag": "Car Timing Cover Seal Replacement Materials and Tools",
+      "input": [
+        "What materials and tools do I need to replace timing cover seal in a car?",
+        "What do I need to replace timing cover seal in my car?",
+        "What are the recommended materials and tools for replacing timing cover seal in a car?"
+      ],
+      "responses": [
+        "To replace the timing cover seal in a car, you will need the following materials and tools: a new timing cover seal that is compatible with your specific make and model of car, a seal installer tool, a crankshaft locking tool, a camshaft locking tool, a torque wrench, a set of metric sockets, a set of combination wrenches, a flat head screw driver, a sealant remover, and a service manual for your specific make and model of car."
+      ]
+    },
+
+    {
+      "tag": "Car Camshaft Replacement Materials and Tools",
+      "input": [
+        "What materials and tools do I need to replace the camshaft in a car?",
+        "What do I need to replace the camshaft in my car?",
+        "What are the recommended materials and tools for replacing the camshaft in a car?"
+      ],
+      "responses": [
+        "To replace the camshaft in a car, you will need the following materials and tools: a new camshaft that is compatible with your specific make and model of car, a camshaft tool set, a crankshaft locking tool, a camshaft locking tool, a torque wrench, a set of metric sockets, a set of combination wrenches, a flat head screw driver, a sealant remover, and a service manual for your specific make and model of car."
+      ]
+    },
+
+    {
+      "tag": "Car Camshaft Position Sensor Replacement Materials and Tools",
+      "input": [
+        "What materials and tools do I need to replace the camshaft position sensor in a car?",
+        "What do I need to replace the camshaft position sensor in my car?",
+        "What are the recommended materials and tools for replacing the camshaft position sensor in a car?"
+      ],
+      "responses": [
+        "To replace the camshaft position sensor in a car, you will need the following materials and tools: a new camshaft position sensor that is compatible with your specific make and model of car, a camshaft position sensor socket, a ratchet, a torque wrench, a set of metric sockets, a set of combination wrenches, a flat head screw driver, and a service manual for your specific make and model of car."
+      ]
+    },
+
+    {
+      "tag": "Car Camshaft Bearing Replacement Materials and Tools",
+      "input": [
+        "What materials and tools do I need to replace the camshaft bearing in a car?",
+        "What do I need to replace the camshaft bearing in my car?",
+        "What are the recommended materials and tools for replacing the camshaft bearing in a car?"
+      ],
+      "responses": [
+        "To replace the camshaft bearing in a car, you will need the following materials and tools: a new camshaft bearing that is compatible with your specific make and model of car, a camshaft bearing removal tool, a camshaft bearing installation tool, a torque wrench, a set of metric sockets, a set of combination wrenches, a flat head screw driver, and a service manual for your specific make and model of car."
+      ]
+    },
+
+    {
+      "tag": "Car Camshaft Seal Replacement Materials and Tools",
+      "input": [
+        "What materials and tools do I need to replace the camshaft seal in a car?",
+        "What do I need to replace the camshaft seal in my car?",
+        "What are the recommended materials and tools for replacing the camshaft seal in a car?"
+      ],
+      "responses": [
+        "To replace the camshaft seal in a car, you will need the following materials and tools: a new camshaft seal that is compatible with your specific make and model of car, a seal puller, a seal installer, a camshaft holding tool, a set of metric sockets, a set of combination wrenches, a flat head screw driver, and a service manual for your specific make and model of car."
+      ]
+    },
+
+    {
+      "tag": "Car Camshaft Gear Replacement Materials and Tools",
+      "input": [
+        "What materials and tools do I need to replace the camshaft gear in a car?",
+        "What do I need to replace the camshaft gear in my car?",
+        "What are the recommended materials and tools for replacing the camshaft gear in a car?"
+      ],
+      "responses": [
+        "To replace the camshaft gear in a car, you will need the following materials and tools: a new camshaft gear that is compatible with your specific make and model of car, a camshaft holding tool, a crankshaft locking tool, a set of metric sockets, a set of combination wrenches, a set of torque wrenches, a timing light, a service manual for your specific make and model of car, and engine assembly lubricant."
+      ]
+    },
+    {
+      "tag": "replace_camshaft_seal",
+      "input": [
+        "I need to replace the camshaft seal on my car",
+        "What materials and tools do I need to change the camshaft seal?",
+        "How do I replace a camshaft seal?"
+      ],
+      "responses": [
+        "To replace the camshaft seal on your car, you will need a new camshaft seal, a seal installer tool, a camshaft holder tool, and a gasket scraper. It is also recommended to have a repair manual for your specific make and model of vehicle. The process of replacing a camshaft seal typically involves removing the timing cover, using the camshaft holder tool to hold the camshaft in place, using the seal installer tool to remove the old seal and install the new one, and then reinstalling the timing cover with a new gasket. It is important to follow the manufacturer's instructions for your vehicle and to consult a professional if you are unsure about any part of the process."
+      ]
+    },
+    {
+      "tag": "replace_camshaft_sprocket",
+      "input": [
+        "I need to replace my car's camshaft sprocket",
+        "What materials and tools do I need to replace the camshaft sprocket on my car?",
+        "Camshaft sprocket replacement project"
+      ],
+      "responses": [
+        "To replace the camshaft sprocket on your car, you will need a new camshaft sprocket, camshaft sprocket holder, camshaft sprocket bolt, and a socket set or wrench. You will also need a torque wrench to properly tighten the bolts to the manufacturer's specifications."
+      ]
+    },
+    {
+      "tag": "replace_crankshaft",
+      "input": [
+        "I need to replace the crankshaft on my car",
+        "Crankshaft replacement",
+        "Car crankshaft needs to be changed"
+      ],
+      "responses": [
+        "To replace the crankshaft on your car, you will need a new crankshaft, crankshaft seal, and gasket. You will also need basic hand tools such as sockets, wrenches, and a torque wrench. It's also recommended to have access to a lift or jack stands for easy access to the bottom of the engine. It's a technical job and it's recommended to have a professional mechanic to do it."
+      ]
+    },
+
+    {
+      "tag": "replace_crankshaft_position_sensor",
+      "input": [
+        "I need to replace my crankshaft position sensor",
+        "What do I need to replace crankshaft position sensor?",
+        "How do I change crankshaft position sensor?"
+      ],
+      "responses": [
+        "To replace the crankshaft position sensor, you will need a new sensor, a socket set, and a ratchet. You may also need a pry bar, a pickle fork, and a small flathead screwdriver. First, locate the sensor and disconnect the electrical connector. Then, remove the sensor using the socket set and ratchet. Finally, install the new sensor and reconnect the electrical connector."
+      ]
+    },
+
+    {
+      "tag": "replace_crankshaft_seal",
+      "input": [
+        "I need to replace my crankshaft seal",
+        "crankshaft seal replacement",
+        "crankshaft seal repair"
+      ],
+      "responses": [
+        "To replace the crankshaft seal in your car, you will need a new crankshaft seal, a seal installer tool, and a set of basic hand tools such as sockets, wrenches, and pliers. It's also recommended to have a service manual for your specific make and model vehicle. The process will involve removing the old seal, cleaning the surface, and installing the new seal. It's important to note that this is a delicate process that requires precision and attention to detail. It's recommended to consult a professional mechanic if you are not experienced in this type of repair."
+      ]
+    },
+
+    {
+      "tag": "replace_crankshaft_pulley",
+      "input": [
+        "I need to replace the crankshaft pulley on my car",
+        "What materials and tools do I need to replace the crankshaft pulley?",
+        "Crankshaft pulley replacement"
+      ],
+      "responses": [
+        "To replace the crankshaft pulley on your car, you will need a crankshaft pulley removal tool, a new crankshaft pulley, a harmonic balancer installer tool, and a torque wrench. You may also need gasket sealant and a new crankshaft bolt depending on the specific make and model of your car."
+      ]
+    },
+
+    {
+      "tag": "replace_crankshaft_bearings",
+      "input": [
+        "I need to replace the crankshaft bearings in my car",
+        "What materials and tools do I need to replace crankshaft bearings?",
+        "crankshaft bearing replacement"
+      ],
+      "responses": [
+        "To replace the crankshaft bearings in your car, you will need the following materials and tools: new crankshaft bearings, bearing removal tool, bearing installation tool, engine oil, gasket sealant, and a torque wrench. It's also recommended to have a service manual for your specific make and model of car as well as proper safety equipment."
+      ]
+    },
+
+    {
+      "tag": "replace_crankshaft_key",
+      "input": [
+        "I need to replace my car's crankshaft key",
+        "What materials and tools do I need to replace the crankshaft key in my car"
+      ],
+      "responses": [
+        "To replace the crankshaft key in your car, you will need a new crankshaft key, a crankshaft key tool, and a socket wrench set. You may also need a gear puller, depending on the make and model of your car. It is recommended to consult the vehicle's service manual for specific instructions on removing and replacing the crankshaft key."
+      ]
+    },
+
+    {
+      "tag": "replace car seat",
+      "input": [
+        "I need to replace the car seat",
+        "How can I replace the car seat in my car?"
+      ],
+      "responses": [
+        "To replace a car seat, you will need a new car seat, a screwdriver, and possibly a socket wrench. First, remove the old seat by unscrewing any bolts or screws that are holding it in place. Then, install the new seat by lining up the bolts or screws and re-tightening them. Be sure to check the car seat manual for specific instructions on installation and make sure it is properly secured before use."
+      ]
+    },
+
+    {
+      "tag": "replace_seat_belt",
+      "input": [
+        "I need to replace my car's seat belt",
+        "My seat belt is broken, what do I need to fix it?",
+        "What materials and tools do I need to replace a seat belt?"
+      ],
+      "responses": [
+        "To replace a seat belt in a car, you will need a new seat belt, a socket set or wrench, and possibly a screwdriver or pliers. It's also recommended to consult the vehicle's service manual for specific instructions for your make and model. It is always good idea to refer to professional mechanic for seat belt replacement."
+      ]
+    },
+
+    {
+      "tag": "replace_door_panel",
+      "input": [
+        "I need to replace the door panel on my car",
+        "What materials and tools do I need to replace the door panel on my car"
+      ],
+      "responses": [
+        "To replace a door panel on a car, you will need a new door panel, Phillips head screwdriver, panel removal tool, and adhesive or clips to reattach the panel. It is also recommended to have a trim tool and a torque wrench on hand."
+      ]
+    },
+
+    {
+      "tag": "replace_door_handle",
+      "input": [
+        "I need to replace the door handle on my car",
+        "What materials and tools do I need to replace a car door handle?",
+        "How do I go about replacing a door handle on my car?"
+      ],
+      "responses": [
+        "To replace a door handle on your car, you will need a new door handle, a screwdriver or drill, and possibly a trim panel tool. It is also recommended to have a service manual for your specific make and model of car. The process may vary depending on the car, but generally it involves removing the trim panel to access the handle and then using the screwdriver or drill to remove the old handle and install the new one. It is important to make sure the new handle is properly aligned and secured before reattaching the trim panel."
+      ]
+    },
+
+    {
+      "tag": "replace_power_window_switch",
+      "input": [
+        "I need to replace the power window switch in my car",
+        "power window switch replacement",
+        "power window switch repair"
+      ],
+      "responses": [
+        "To replace the power window switch in your car, you will need a new power window switch, a Phillips head screwdriver, and a panel tool. First, use the panel tool to remove the door panel. Locate the switch and use the screwdriver to remove the screws holding it in place. Disconnect the wiring harness and install the new switch, making sure to reconnect the wiring harness and reattach any screws. Finally, use the panel tool to reinstall the door panel."
+      ]
+    },
+
+    {
+      "tag": "replace_headliner",
+      "input": [
+        "I want to replace the headliner in my car",
+        "How do I replace the headliner in my vehicle",
+        "What materials and tools do I need to replace a car headliner"
+      ],
+      "responses": [
+        "To replace a car headliner, you will need a new headliner material, adhesive, scissors, a utility knife, and a staple gun. It's also recommended to have a friend to assist with the installation. First, remove the old headliner by carefully cutting it away from the roof and any attachments. Clean the roof surface thoroughly and lay the new headliner on top, making sure to smooth out any wrinkles or bubbles. Use the adhesive to secure the headliner in place, then use the staple gun to attach it to the roof. Finish by reinstalling any trim pieces that were removed during the process. Keep in mind that this is a fairly complex task and it may be better to seek help of a professional if you are not sure about how to do it."
+      ]
+    },
+
+    {
+      "tag": "replace_sun_visor",
+      "input": [
+        "What materials and tools do I need to replace a sun visor in my car?",
+        "How can I replace the sun visor in my vehicle?",
+        "Sun visor replacement project"
+      ],
+      "responses": [
+        "To replace a sun visor in a car, you will need a new sun visor specific to your make and model, a Phillips head screwdriver, a flat head screwdriver, and some adhesive. The process of replacing the sun visor may vary depending on the make and model of your car, but generally, you will need to remove the old visor by carefully prying it off with the flat head screwdriver and then remove any fasteners or clips holding it in place. Then, you will need to install the new visor by aligning it with the clips or fasteners and securing it in place with the screws and adhesive."
+      ]
+    },
+    {
+      "tag": "replace_car_carpet",
+      "input": [
+        "I need to replace the carpet in my car",
+        "How do I replace the car carpet",
+        "What materials and tools do I need to replace car carpet"
+      ],
+      "responses": [
+        "To replace the carpet in your car, you will need a new carpet, a utility knife, a staple gun, and some trim tools. It's also a good idea to have a shop vacuum on hand to clean up any debris. The process will involve removing the old carpet, measuring and cutting the new carpet to fit, and then stapling or gluing it in place. It's always recommended to consult your car manual for specific instructions for your car model before starting this process."
+      ]
+    },
+
+    {
+      "tag": "replace_stereo",
+      "input": [
+        "I want to replace my car's stereo",
+        "I need to upgrade my car's audio system",
+        "My car's stereo is broken and needs to be replaced"
+      ],
+      "responses": [
+        "To replace your car's stereo, you will need a new stereo unit, a wiring harness, and a dash kit. You may also need additional tools such as a screwdriver and panel tool. It is recommended to consult your car's owner manual for specific instructions and to ensure compatibility with your make and model."
+      ]
+    },
+
+    {
+      "tag": "replace_speaker",
+      "input": [
+        "I need to replace a speaker in my car",
+        "I want to upgrade my car's speakers",
+        "My car's speakers are not working, what do I need to replace them?"
+      ],
+      "responses": [
+        "To replace a speaker in your car, you will need a new speaker that is compatible with your car's make and model, a screwdriver or panel tool to remove the door panel or dashboard, and wire cutters or pliers to disconnect the old speaker. Some aftermarket speakers may also require additional wiring or an amplifier to work properly."
+      ]
+    },
+
+    {
+      "tag": "replace_shift_knob",
+      "input": [
+        "I need to replace the shift knob in my car",
+        "How do I replace the shift knob in my car?",
+        "What materials and tools do I need to replace the shift knob in my car?"
+      ],
+      "responses": [
+        "To replace the shift knob in your car, you will need a new shift knob, a small flathead screwdriver, and a Phillips head screwdriver. First, remove the shift knob by twisting it counterclockwise to loosen it, then gently pull it off the shifter. Next, remove the screws or clips that hold the old shift knob in place using the screwdrivers. Finally, install the new shift knob by reversing the steps and tightening the screws or clips securely. Keep in mind that some vehicles may have a different method of removing the shift knob, so it's best to consult your vehicle's owner manual for specific instructions."
+      ]
+    },
+
+    {
+      "tag": "replace_steering_wheel",
+      "input": [
+        "I need to replace my steering wheel",
+        "steering wheel replacement",
+        "change steering wheel"
+      ],
+      "responses": [
+        "To replace your car's steering wheel, you will need a steering wheel puller, a steering wheel lock plate removal tool, and a new steering wheel. It's important to make sure the new steering wheel is compatible with your make and model of car before purchasing. It's also recommended to have the replacement performed by a professional mechanic for safety."
+      ]
+    },
+
+    {
+      "tag": "replace_steering_column",
+      "input": [
+        "I need to replace the steering column in my car",
+        "What materials and tools do I need to replace the steering column?"
+      ],
+      "responses": [
+        "To replace the steering column in your car, you will need: a steering column removal tool, a new steering column, a steering shaft coupler, and a sealant. It is also recommended to have a socket set, pliers, and a hammer on hand for the installation process."
+      ]
+    },
+
+    {
+      "tag": "replace_dome_light",
+      "input": [
+        "I need to replace my dome light",
+        "How do I change the dome light in my car",
+        "Dome light replacement"
+      ],
+      "responses": [
+        "To replace the dome light in your car, you will need a flathead screwdriver, a new dome light, and possibly a panel tool if your car's interior paneling is difficult to remove. First, locate the dome light in your car's ceiling. It may be hidden behind a panel that can be popped off with a panel tool or pried off with a flathead screwdriver. Once the panel is removed, you should be able to access the back of the dome light. Use the flathead screwdriver to remove any screws or clips holding the dome light in place and carefully remove the light. Replace it with the new light and reattach any screws or clips. Finally, reattach the panel and test to ensure the new light is working properly."
+      ]
+    },
+
+    {
+      "tag": "replace_interior_trim",
+      "input": [
+        "I need to replace the interior trim in my car",
+        "What materials and tools do I need to replace the interior trim in my car",
+        "How do I replace the interior trim in my car"
+      ],
+      "responses": [
+        "To replace the interior trim in your car, you will need a few basic tools such as a screwdriver, panel tool, and trim removal tool. Additionally, you will need the appropriate trim pieces for your specific make and model of car. Before starting, consult your vehicle's service manual for specific instructions and guidelines. It is also recommended to take pictures or make note of the current trim layout before removing it, to ensure proper re-installation."
+      ]
+    },
+
+    {
+      "tag": "replace_arm_rest",
+      "input": [
+        "I need to replace the arm rest in my car",
+        "How do I replace the arm rest in my vehicle?",
+        "Arm rest replacement for my car",
+        "Car arm rest replacement"
+      ],
+      "responses": [
+        "To replace the arm rest in your car, you will need a few basic tools such as a screwdriver and a trim removal tool. You will also need to purchase a replacement arm rest that is compatible with your specific make and model of car. First, you will need to remove any trim or paneling that covers the arm rest. This can usually be done by gently prying the trim pieces off with a trim removal tool. Once the trim is removed, you will be able to access the screws or clips that hold the arm rest in place. Remove these and the old arm rest will come loose. Finally, install the new arm rest by reversing the steps and reassembling the trim pieces. It's recommended to consult the car service manual for specific instructions for your vehicle."
+      ]
+    },
+
+    {
+      "tag": "replace_car_cupholder",
+      "input": [
+        "I need to replace my car's cupholder",
+        "How can I replace the cupholder in my car?"
+      ],
+      "responses": [
+        "To replace the cupholder in your car, you will need a new cupholder, a Phillips head screwdriver, and possibly a flathead screwdriver. First, locate the cupholder in your car and remove any screws or clips that are holding it in place. Carefully remove the cupholder and disconnect any wires or connections if applicable. Next, insert the new cupholder and reattach any screws or clips. If there are any wires or connections, make sure they are properly reconnected. Finally, test the cupholder to ensure proper function."
+      ]
+    },
+
+    {
+      "tag": "replace_car_ashtray",
+      "input": [
+        "I need to replace my car's ashtray",
+        "How do I replace the ashtray in my car?",
+        "What materials and tools do I need to replace the ash tray in my car?"
+      ],
+      "responses": [
+        "To replace your car's ashtray, you will need a replacement ashtray, a screwdriver, and possibly a panel removal tool. First, locate the ashtray in your car and use the screwdriver or panel removal tool to remove any screws or clips holding it in place. Then, carefully pull the ashtray out and unplug any electrical connections. Finally, install the replacement ashtray by reversing the removal process and making sure it is securely fastened."
+      ]
+    },
+
+    {
+      "tag": "replace_bumper",
+      "input": [
+        "I need to replace the bumper on my car",
+        "My car's bumper needs to be replaced",
+        "I want to replace the bumper on my vehicle"
+      ],
+      "responses": [
+        "To replace the bumper on your car, you will need a few tools including a socket set, screwdrivers, and possibly a trim removal tool. You will also need the new bumper itself. It is recommended to consult your car's manual or a professional mechanic for specific instructions on how to replace the bumper for your make and model."
+      ]
+    },
+
+    {
+      "tag": "replace_fender",
+      "input": [
+        "I need to replace my car's fender",
+        "My fender is damaged and needs to be replaced",
+        "Fender replacement for my car"
+      ],
+      "responses": [
+        "To replace a fender on your car, you will need a few basic tools such as a socket set, pliers, and a screwdriver. You will also need a replacement fender that is compatible with your make and model of car. Some specific tools that may be required depend on the car model you have. It is recommendable to consult the car manual or a mechanic. It is a task that can be done by someone who is familiar with car repairs, but if you are not confident in your abilities, it is best to take your car to a professional mechanic."
+      ]
+    },
+
+    {
+      "tag": "replacing_grille",
+      "input": [
+        "What materials and tools do I need to replace the grille on my car?",
+        "How do I replace the grille on my vehicle?",
+        "Recommendations for replacing a car grille"
+      ],
+      "responses": [
+        "To replace the grille on your car, you will need the following materials and tools: A new grille, Phillips head screwdriver, Flat head screwdriver, Socket wrench set, Removal tool (if necessary), Rags or towels (for cleaning). To replace the grille on your car, you will need to first remove the old grille. This can typically be done by removing any screws or fasteners holding it in place using a Phillips head or flat head screwdriver or socket wrench. Once the old grille is removed, clean the area around the grille and install the new grille by reversing the removal process. It is important to ensure that the new grille is securely fastened and properly aligned before reassembling any surrounding parts."
+      ]
+    },
+
+    {
+      "tag": "replace_car_hood",
+      "input": [
+        "I need to replace the hood on my car",
+        "How do I replace the hood on my car",
+        "What materials and tools do I need to replace the hood on my car"
+      ],
+      "responses": [
+        "To replace the hood on your car, you will need a new hood, hood hinges, and any necessary hardware specific to your make and model of car. You will also need basic tools such as sockets, wrenches, and screwdrivers. It is also recommended to have a helper to assist with lifting the hood into place. It's always best to refer to the vehicle's service manual for specific instructions on how to replace the hood on your car."
+      ]
+    },
+
+    {
+      "tag": "replace_car_door",
+      "input": [
+        "I need to replace my car door",
+        "car door replacement",
+        "how to replace a car door"
+      ],
+      "responses": [
+        "To replace a car door, you will need a new door panel, a door handle, power window switch and any other necessary hardware specific to your make and model. You will also need some basic hand tools such as a screwdriver and socket set. It's recommended to consult a professional mechanic or a car repair manual for specific instructions on replacing a car door for your vehicle."
+      ]
+    },
+
+    {
+      "tag": "replace_car_window",
+      "input": [
+        "I need to replace my car's window",
+        "I need to fix my car's broken window",
+        "need to change car window"
+      ],
+      "responses": [
+        "To replace a car window, you will need a new window glass, sealant, and a set of tools such as a drill, a screwdriver, and a cutting tool. It's also recommended to wear safety glasses and gloves to protect yourself during the process. Make sure to get the correct size and type of window glass for your specific make and model of car before starting the replacement process. It's also best to consult with a professional mechanic or refer to the car's manual for the proper steps and techniques to ensure a successful replacement."
+      ]
+    },
+
+    {
+      "tag": "replace_car_mirror",
+      "input": [
+        "I need to replace my car mirror",
+        "My car mirror is broken and I need to replace it",
+        "I want to change the mirrors on my car"
+      ],
+      "responses": [
+        "To replace your car mirror, you will need a new mirror, a screwdriver, and some adhesive. First, remove the old mirror by carefully unscrewing it. Clean the area where the new mirror will be placed. Then, apply the adhesive to the back of the new mirror and carefully place it in the correct position. Secure the new mirror with the screws, and you're done! "
+      ]
+    },
+
+    {
+      "tag": "replace_headlight",
+      "input": [
+        "replace headlight",
+        "change headlight",
+        "install new headlight",
+        "headlight replacement"
+      ],
+      "responses": [
+        "To replace a headlight, you will need a new headlight assembly, a screwdriver, and possibly a wrench. First, locate the headlight assembly on your vehicle and remove any retaining screws or bolts. Carefully pull the assembly out and disconnect any electrical connections. Install the new assembly by reversing the removal process and making sure it is securely fastened. It is recommended to refer to the vehicle's owner manual for specific instructions and to consult a professional if needed."
+      ]
+    },
+    {
+      "tag": "replace_taillight",
+      "input": [
+        "What materials and tools do I need to replace my car's taillight?",
+        "How can I replace my taillight on my car?",
+        "What do I need to change a taillight on a car?"
+      ],
+      "responses": [
+        "To replace your car's taillight, you will need a replacement taillight, a screwdriver, and a socket set. You may also need a trim tool or panel tool to remove any trim or paneling that is covering the taillight. It is recommended to consult your car's service manual or seek professional help for proper instructions for your specific make and model."
+      ]
+    },
+
+    {
+      "tag": "replace_car_antenna",
+      "input": [
+        "What materials and tools do I need to replace my car antenna?",
+        "I need to replace my car antenna, what should I use?"
+      ],
+      "responses": [
+        "To replace a car antenna, you will need a new antenna, a socket wrench or pliers, and possibly a sealant or adhesive. It's always recommended to check your vehicle's manual for specific instructions and recommendations for your make and model."
+      ]
+    },
+
+    {
+      "tag": "replace_car_trim",
+      "input": [
+        "I need to replace my car's trim",
+        "My car's trim is damaged, what do I need to fix it?",
+        "What materials and tools do I need to replace my car's trim?"
+      ],
+      "responses": [
+        "To replace your car's trim, you will need a trim removal tool, a replacement trim piece, and adhesive. It's also a good idea to have a clean work area and a few basic hand tools, such as a screwdriver and a utility knife."
+      ]
+    },
+
+    {
+      "tag": "replace_windshield",
+      "input": [
+        "What materials and tools do I need to replace a windshield on a car?",
+        "How can I replace the windshield on my car?",
+        "What do I need to change the windshield on my car?"
+      ],
+      "responses": [
+        "To replace a windshield on a car, you will need the following materials: a new windshield, sealant, primer, and a cutting tool. As for tools, you will need a razor blade, a drill, a tape measure, and a glass suction cup. It is also recommended to have safety goggles and gloves for protection. It is also recommended that you get a professional to do the job or take your vehicle to the authorized service center."
+      ]
+    },
+
+    {
+      "tag": "replace_wiper_blades",
+      "input": [
+        "I need to replace my car's wiper blades",
+        "What do I need to replace wiper blades on my car?",
+        "Wiper blade replacement for my car"
+      ],
+      "responses": [
+        "To replace your car's wiper blades, you will need new wiper blades, a small flathead screwdriver, and a pair of gloves. First, lift the wiper arm away from the windshield and locate the small tab or lever that holds the wiper blade in place. Use the screwdriver to release the tab or lever and remove the old wiper blade. Then, attach the new wiper blade in its place, making sure it is securely fastened. Finally, test the wiper blades to make sure they are working properly."
+      ]
+    },
+
+    {
+      "tag": "replace_weatherstrip",
+      "input": [
+        "I need to replace the weatherstrip on my car",
+        "What materials and tools do I need to replace the weatherstrip on my car"
+      ],
+      "responses": [
+        "To replace the weatherstrip on your car, you will need: Weatherstrip adhesive, A utility knife or scissors, A clean rag or towel, A heat gun (optional), A weatherstrip removal tool (optional). It's recommended to consult your car's manual or a professional mechanic for specific instructions and recommendations for your make and model."
+      ]
+    },
+
+    {
+      "tag": "replacing car spoiler",
+      "input": [
+        "I want to replace the spoiler on my car",
+        "How do I replace the spoiler on my car?",
+        "What materials and tools do I need to replace a car spoiler?"
+      ],
+      "responses": [
+        "To replace a car spoiler, you will need the new spoiler, a drill, screws or adhesive, a screwdriver or adhesive applicator, and possibly a trim removal tool. It's recommended to consult your vehicle's service manual for specific instructions on removing and installing the new spoiler. It's also recommended to seek the help of a professional mechanic if you're unsure of the process."
+      ]
+    },
+
+    {
+      "tag": "car_door_handle_replacement",
+      "input": [
+        "I want to replace my car's door handle",
+        "What materials and tools do I need to replace my car's door handle?",
+        "How can I replace my car's door handle?"
+      ],
+      "responses": [
+        "To replace your car's door handle, you will need a new door handle, a panel removal tool, and a screwdriver. First, use the panel removal tool to carefully remove the panel covering the door handle. Next, use the screwdriver to remove the screws holding the old handle in place. Finally, install the new door handle and reattach the panel. It's always recommended to consult your car manual or consult a professional mechanic for specific instructions."
+      ]
+    },
+
+    {
+      "tag": "replace_keyless_entry_pad",
+      "input": [
+        "What materials and tools do I need to replace my car's keyless entry pad?",
+        "How can I replace the keyless entry pad on my car?",
+        "I need to replace the keyless entry pad on my car, what should I use?"
+      ],
+      "responses": [
+        "To replace your car's keyless entry pad, you will need a new keyless entry pad, a Phillips head screwdriver, and a flathead screwdriver. You may also need a plastic trim tool to remove any trim pieces covering the keyless entry pad. First, locate the screws or clips that hold the keyless entry pad in place and remove them with the screwdrivers. Carefully detach the keyless entry pad from the car and unplug any connectors. Install the new keyless entry pad, plug in any connectors, and reattach the keyless entry pad using the screws or clips. You can also use a double-sided adhesive tape to fix the new keyless entry pad to the car."
+      ]
+    },
+
+    {
+      "tag": "replace_car_emblems",
+      "input": [
+        "I need to replace the emblems on my car",
+        "What materials and tools do I need to replace the emblems on my car?",
+        "Recommendation for replacing car emblems"
+      ],
+      "responses": [
+        "To replace car emblems, you will need a heat gun or hair dryer, a small flathead screwdriver, and new emblems. Make sure to heat up the old emblems to loosen the adhesive before gently prying them off with the screwdriver. Then, clean the surface and apply the new emblems using the adhesive provided or automotive-grade adhesive. It is always recommended to check the car's manual for any specific instructions or precautions."
+      ]
+    },
+
+    {
+      "tag": "replace_sideview_mirror",
+      "input": [
+        "I need to replace my sideview mirror",
+        "Sideview mirror replacement",
+        "Change out my sideview mirror",
+        "Broken sideview mirror replacement"
+      ],
+      "responses": [
+        "To replace your car's sideview mirror, you will need a new mirror assembly, a screwdriver, and possibly adhesive or clips, depending on the make and model of your vehicle. It is also recommended to check your vehicle's manual for specific instructions. Some popular brands for sideview mirrors are CIPA and TYC. Remember to always check the fitment for your specific make and model before purchasing."
+      ]
+    },
+    {
+      "tag": "computer_won't_turn_on",
+      "input": [
+        "My computer won't turn on",
+        "Why won't my computer turn on?",
+        "How can I fix my computer that won't turn on?"
+      ],
+      "responses": [
+        "Make sure that the power cable is plugged in and that the outlet is working properly. If that doesn't work, try pressing and holding the power button for a few seconds to force a shutdown and then try turning it back on again. If the problem persists, there may be an issue with the power supply or the motherboard and it may need to be repaired or replaced.",
+        "If your computer won't turn on, it could be due to a variety of issues. Check to see if the power cable is plugged in and that the outlet is working properly. Try a different power outlet or power cable to see if that helps. If not, it could be a problem with the power supply or motherboard and it may need to be repaired or replaced."
+      ]
+    },
+    {
+      "tag": "computer_running_slowly",
+      "input": [
+        "Why is my computer running so slowly?",
+        "How can I speed up my computer?",
+        "My computer is running really slowly. What can I do?"
+      ],
+      "responses": [
+        "There are several things you can do to speed up your computer. First, try deleting any unused programs or files to free up space on your hard drive. You can also try running a virus scan to make sure your computer is not infected with malware. Finally, try updating your computer's drivers to ensure they are up to date.",
+        "If your computer is running slowly, it could be due to a variety of factors. Try freeing up space on your hard drive by deleting unused programs or files. You can also try running a virus scan to make sure your computer is not infected with malware. Finally, try updating your computer's drivers to ensure they are up to date."
+      ]
+    },
+    {
+      "tag": "computer_overheating",
+      "input": [
+        "Why is my computer overheating?",
+        "How can I prevent my computer from overheating?",
+        "My computer is getting really hot. What can I do?"
+      ],
+      "responses": [
+        "Your computer may be overheating due to a variety of factors. Make sure that the fan is working properly and that there is proper ventilation around the computer. You can also try cleaning the fan to remove any dust or debris that may be blocking it. If the problem persists, you may need to replace the fan or take the computer to a repair shop.",
+        "To prevent your computer from overheating, make sure that the fan is working properly and that there is proper ventilation around the computer. You can also try cleaning the fan to remove any dust or debris that may be blocking it. Finally, try using a cooling pad or stand to help dissipate heat away from the computer."
+      ]
+    },
+    {
+      "tag": "computer_virus",
+      "input": [
+        "How can I remove a virus from my computer?",
+        "My computer has a virus. What should I do?",
+        "What is the best way to protect my computer from viruses?"
+      ],
+      "responses": [
+        "To remove a virus from your computer, try running a virus scan using antivirus software. You can also try using System Restore to return your computer to a previous state before the virus infected it. If the virus is particularly stubborn, you may need to take your computer to a repair shop.",
+        "If your computer has a virus, the first thing you should do is run a virus scan using antivirus software. You can also try using System Restore to return your computer to a previous state before the virus infected it. Finally, make sure to keep your antivirus software up to date to prevent future infections."
+      ]
+    },
+    {
+      "tag": "computer_blue_screen",
+      "input": [
+        "Why am I getting a blue screen on my computer?",
+        "How can I fix the blue screen of death?",
+        "My computer keeps crashing with a blue screen. What should I do?"
+      ],
+      "responses": [
+        "The blue screen of death can be caused by a variety of issues, including hardware failures or driver conflicts. Try restarting your computer and see if the problem persists. If it does, try updating your drivers or running a hardware diagnostic test to determine the cause of the problem.",
+        "If your computer keeps crashing with a blue screen, try restarting your computer and see if the problem persists. You can also try updating your drivers or running a hardware diagnostic test to determine the cause of the problem. Finally, you may need to take your computer to a repair shop to have it fixed."
+      ]
+    },
+    {
+      "tag": "computer_freezing",
+      "input": [
+        "Why is my computer freezing?",
+        "How can I fix my computer that keeps freezing?",
+        "My computer keeps freezing. What should I do?"
+      ],
+      "responses": [
+        "Your computer may be freezing due to a variety of factors, including a lack of available memory or a software conflict. Try restarting your computer and see if the problem persists. If it does, try freeing up space on your hard drive or running a virus scan to make sure your computer is not infected with malware.",
+        "If your computer keeps freezing, try restarting your computer and see if the problem persists. You can also try freeing up space on your hard drive or running a virus scan to make sure your computer is not infected with malware. Finally, you may need to take your computer to a repair shop to have it fixed."
+      ]
+    },
+    {
+      "tag": "computer_no_sound",
+      "input": [
+        "Why is there no sound coming from my computer?",
+        "How can I fix my computer's sound?",
+        "My computer is not producing any sound. What should I do?"
+      ],
+      "responses": [
+        "If there is no sound coming from your computer, try checking the volume settings and make sure that the speakers are properly connected. You can also try updating your audio drivers or checking to see if the sound card is properly installed.",
+        "If your computer is not producing any sound, try checking the volume settings and make sure that the speakers are properly connected. You can also try updating your audio drivers or checking to see if the sound card is properly installed. Finally, you may need to take your computer to a repair shop to have it fixed."
+      ]
+    },
+    {
+      "tag": "computer_slow_internet",
+      "input": [
+        "Why is my internet connection so slow?",
+        "How can I speed up my internet connection?",
+        "My internet connection is very slow. What can I do?"
+      ],
+      "responses": [
+        "If your internet connection is slow, try restarting your modem and router. You can also try moving your router to a different location to improve the signal strength. Finally, try running a speed test to determine if the problem is with your internet service provider.",
+        "To speed up your internet connection, try restarting your modem and router. You can also try moving your router to a different location to improve the signal strength. Finally, try running a speed test to determine if the problem is with your internet service provider."
+      ]
+    },
+    {
+      "tag": "computer_frozen_program",
+      "input": [
+        "Why is my program frozen?",
+        "How can I fix a program that has frozen?",
+        "My program is not responding. What should I do?"
+      ],
+      "responses": [
+        "If your program is frozen, try closing it using the task manager. You can also try restarting your computer and see if that helps. If the problem persists, try updating the program or uninstalling and reinstalling it.",
+        "If your program is not responding, try closing it using the task manager. You can also try restarting your computer and see if that helps. If the problem persists, try updating the program or uninstalling and reinstalling it."
+      ]
+    },
+    {
+      "tag": "computer_password_reset",
+      "input": [
+        "How do I reset my computer password?",
+        "I forgot my computer password. What can I do?",
+        "My computer password isn't working. How can I reset it?"
+      ],
+      "responses": [
+        "To reset your computer password, try using the password reset feature in your operating system. You can also try using a password reset disk if you have one. If all else fails, you may need to reinstall your operating system.",
+        "If you forgot your computer password, try using the password reset feature in your operating system. You can also try using a password reset disk if you have one. Finally, you may need to reinstall your operating system if all else fails."
+      ]
+    },
+    {
+      "tag": "computer_missing_file",
+      "input": [
+        "Why is my file missing?",
+        "How can I find a missing file?",
+        "My file is not where I saved it. What should I do?"
+      ],
+      "responses": [
+        "If your file is missing, try searching for it using the search feature in your operating system. You can also try checking the recycle bin to see if it was accidentally deleted. Finally, try using a file recovery program to recover the file.",
+        "If your file is not where you saved it, try searching for it using the search feature in your operating system. You can also try checking the recycle bin to see if it was accidentally deleted. Finally, try using a file recovery program to recover the file."
+      ]
+    },
+    {
+      "tag": "computer_unresponsive_mouse",
+      "input": [
+        "Why is my mouse not working?",
+        "How can I fix my unresponsive mouse?",
+        "My mouse is not responding. What should I do?"
+      ],
+      "responses": [
+        "If your mouse is not working, try unplugging it and plugging it back in. You can also try restarting your computer and see if that helps. Finally, try updating the mouse driver or using a different mouse to determine if the problem is with the mouse or your computer.",
+        "If your mouse is unresponsive, try unplugging it and plugging it back in. You can also try restarting your computer and see if that helps. Finally, try updating the mouse driver or using a different mouse to determine if the problem is with the mouse or your computer."
+      ]
+    },
+    {
+      "tag": "computer_unresponsive_keyboard",
+      "input": [
+        "Why is my keyboard not working?",
+        "How can I fix my unresponsive keyboard?",
+        "My keyboard is not responding. What should I do?"
+      ],
+      "responses": [
+        "If your keyboard is not working, try unplugging it and plugging it back in. You can also try restarting your computer and see if that helps. Finally, try updating the keyboard driver or using a different keyboard to determine if the problem is with the keyboard or your computer.",
+        "If your keyboard is unresponsive, try unplugging it and plugging it back in. You can also try restarting your computer and see if that helps. Finally, try updating the keyboard driver or using a different keyboard to determine if the problem is with the keyboard or your computer."
+      ]
+    },
+    {
+      "tag": "computer_unresponsive_touchpad",
+      "input": [
+        "Why is my touchpad not working?",
+        "How can I fix my unresponsive touchpad?",
+        "My touchpad is not responding. What should I do?"
+      ],
+      "responses": [
+        "If your touchpad is not working, try restarting your computer and see if that helps. You can also try updating the touchpad driver or using an external mouse to determine if the problem is with the touchpad or your computer.",
+        "If your touchpad is unresponsive, try restarting your computer and see if that helps. You can also try updating the touchpad driver or using an external mouse to determine if the problem is with the touchpad or your computer."
+      ]
+    },
+    {
+      "tag": "computer_corrupted_file",
+      "input": [
+        "Why is my file corrupted?",
+        "How can I fix a corrupted file?",
+        "My file is not opening. What should I do?"
+      ],
+      "responses": [
+        "If your file is corrupted, try using a file recovery program to recover the file. You can also try opening the file in a different program to see if that helps. Finally, try restoring the file from a backup if you have one.",
+        "If your file is not opening, try using a file recovery program to recover the file. You can also try opening the file in a different program to see if that helps. Finally, try restoring the file from a backup if you have one."
+      ]
+    },
+    {
+      "tag": "computer_weak_battery",
+      "input": [
+        "Why is my battery weak?",
+        "How can I fix my weak battery?",
+        "My battery is not holding a charge. What should I do?"
+      ],
+      "responses": [
+        "If your battery is weak, try calibrating it by fully charging and discharging it a few times. You can also try reducing the brightness of your screen or disabling any unused features to conserve battery life. Finally, try replacing the battery if it is old or damaged.",
+        "If your battery is not holding a charge, try calibrating it by fully charging and discharging it a few times. You can also try reducing the brightness of your screen or disabling any unused features to conserve battery life. Finally, try replacing the battery if it is old or damaged."
+      ]
+    },
+    {
+      "tag": "computer_unresponsive_screen",
+      "input": [
+        "Why is my screen not responding?",
+        "How can I fix my unresponsive screen?",
+        "My screen is not responding to touch. What should I do?"
+      ],
+      "responses": [
+        "If your screen is not responding, try restarting your computer and see if that helps. You can also try updating your graphics card driver or checking to see if the screen is properly connected. Finally, try using an external monitor to determine if the problem is with the screen or your computer.",
+        "If your screen is unresponsive to touch, try restarting your computer and see if that helps. You can also try updating your graphics card driver or checking to see if the screen is properly connected."
+      ]
+    },
+
+    {
+      "tag": "computer_no_internet",
+      "input": [
+        "Why is my computer not connecting to the internet?",
+        "How can I fix my computer's internet connection?",
+        "My computer is not getting online. What should I do?"
+      ],
+      "responses": [
+        "If your computer is not connecting to the internet, try restarting your modem and router. You can also try resetting your network settings to see if that helps. Finally, try running a virus scan to make sure your computer is not infected with malware.",
+        "To fix your computer's internet connection, try restarting your modem and router. You can also try resetting your network settings to see if that helps. Finally, try running a virus scan to make sure your computer is not infected with malware."
+      ]
+    },
+    {
+      "tag": "computer_slow_startup",
+      "input": [
+        "Why is my computer taking so long to start up?",
+        "How can I speed up my computer's startup time?",
+        "My computer is taking forever to start up. What should I do?"
+      ],
+      "responses": [
+        "If your computer is taking a long time to start up, try disabling any unnecessary startup programs. You can also try freeing up space on your hard drive or running a virus scan to make sure your computer is not infected with malware. Finally, try updating your computer's drivers to ensure they are up to date.",
+        "To speed up your computer's startup time, try disabling any unnecessary startup programs. You can also try freeing up space on your hard drive or running a virus scan to make sure your computer is not infected with malware. Finally, try updating your computer's drivers to ensure they are up to date."
+      ]
+    },
+    {
+      "tag": "computer_unresponsive_browser",
+      "input": [
+        "Why is my browser not responding?",
+        "How can I fix my unresponsive browser?",
+        "My browser is not working. What should I do?"
+      ],
+      "responses": [
+        "If your browser is not responding, try closing it using the task manager. You can also try clearing your browser cache or running a virus scan to make sure your computer is not infected with malware. Finally, try updating your browser to ensure it is up to date.",
+        "To fix your unresponsive browser, try closing it using the task manager. You can also try clearing your browser cache or running a virus scan to make sure your computer is not infected with malware. Finally, try updating your browser to ensure it is up to date."
+      ]
+    },
+    {
+      "tag": "computer_missing_driver",
+      "input": [
+        "Why is my driver missing?",
+        "How can I find a missing driver?",
+        "My driver is not working. What should I do?"
+      ],
+      "responses": [
+        "If your driver is missing, try downloading it from the manufacturer's website. You can also try using driver update software to automatically update your drivers. Finally, try running a virus scan to make sure your computer is not infected with malware.",
+        "To find a missing driver, try downloading it from the manufacturer's website. You can also try using driver update software to automatically update your drivers. Finally, try running a virus scan to make sure your computer is not infected with malware."
+      ]
+    },
+    {
+      "tag": "computer_unresponsive_program",
+      "input": [
+        "Why is my program not responding?",
+        "How can I fix my unresponsive program?",
+        "My program is not working. What should I do?"
+      ],
+      "responses": [
+        "If your program is not responding, try closing it using the task manager. You can also try restarting your computer and see if that helps. If the problem persists, try updating the program or uninstalling and reinstalling it.",
+        "To fix your unresponsive program, try closing it using the task manager. You can also try restarting your computer and see if that helps. If the problem persists, try updating the program or uninstalling and reinstalling it."
+      ]
+    },
+    {
+      "tag": "computer_unresponsive_printer",
+      "input": [
+        "Why is my printer not responding?",
+        "How can I fix my unresponsive printer?",
+        "My printer is not working. What should I do?"
+      ],
+      "responses": [
+        "If your printer is not responding, try restarting it and see if that helps. You can also try checking the printer's connection to your computer or updating the printer driver. Finally, try running a virus scan to make sure your computer is not infected with malware.",
+        "To fix your unresponsive printer, try restarting it and see if that helps. You can also try checking the printer's connection to your computer or updating the printer driver. Finally, try running a virus scan to make sure your computer is not infected with malware."
+      ]
+    },
+    {
+      "tag": "computer_unresponsive_touchscreen",
+      "input": [
+        "Why is my touchscreen not responding?",
+        "How can I fix my unresponsive touchscreen?",
+        "My touchscreen is not working. What should I do?"
+      ],
+      "responses": [
+        "If your touchscreen is not responding, try restarting your computer and see if that helps. You can also try updating your graphics card driver or checking to see if the touchscreen is properly connected. Finally, try using an external monitor to determine if the problem is with the touchscreen or your computer.",
+        "To fix your unresponsive touchscreen, try restarting your computer and see if that helps. You can also try updating your graphics card driver or checking to see if the touchscreen is properly connected. Finally, try using an external monitor to determine if the problem is with the touchscreen or your computer."
+      ]
+    },
+    {
+      "tag": "computer_unresponsive_headphones",
+      "input": [
+        "Why is my headphone not working?",
+        "How can I fix my unresponsive headphone?",
+        "My headphone is not producing any sound. What should I do?"
+      ],
+      "responses": [
+        "If your headphone is not working, try checking the headphone jack and make sure it is properly connected. You can also try using a different headphone or checking the sound settings on your computer. Finally, try updating your audio drivers to ensure they are up to date.",
+        "To fix your unresponsive headphone, try checking the headphone jack and make sure it is properly connected. You can also try using a different headphone or checking the sound settings on your computer. Finally, try updating your audio drivers to ensure they are up to date."
+      ]
+    },
+    {
+      "tag": "computer_unresponsive_camera",
+      "input": [
+        "Why is my camera not responding?",
+        "How can I fix my unresponsive camera?",
+        "My camera is not working. What should I do?"
+      ],
+      "responses": [
+        "If your camera is not responding, try restarting your computer and see if that helps. You can also try updating the camera driver or checking to see if the camera is properly connected. Finally, try using a different camera program to determine if the problem is with the camera or your computer.",
+        "To fix your unresponsive camera, try restarting your computer and see if that helps. You can also try updating the camera driver or checking to see if the camera is properly connected. Finally, try using a different camera program to determine if the problem is with the camera or your computer."
+      ]
+    },
+    {
+      "tag": "computer_unresponsive_external_device",
+      "input": [
+        "Why is my external device not responding?",
+        "How can I fix my unresponsive external device?",
+        "My external device is not working. What should I do?"
+      ],
+      "responses": [
+        "If your external device is not responding, try checking the connection to your computer and make sure it is properly connected. You can also try updating the device driver or checking to see if the device is compatible with your computer. Finally, try using a different device to determine if the problem is with the device or your computer.",
+        "To fix your unresponsive external device, try checking the connection to your computer and make sure it is properly connected. You can also try updating the device driver or checking to see if the device is compatible with your computer. Finally, try using a different device to determine if the problem is with the device or your computer."
+      ]
+    },
+    {
+      "tag": "computer_unresponsive_power_button",
+      "input": [
+        "Why is my power button not working?",
+        "How can I fix my unresponsive power button?",
+        "My power button is not turning on my computer. What should I do?"
+      ],
+      "responses": [
+        "If your power button is not working, try checking the connection to your computer and make sure it is properly connected. You can also try using the power button on your keyboard to turn on your computer. Finally, try updating your computer's drivers to ensure they are up to date.",
+        "To fix your unresponsive power button, try checking the connection to your computer and make sure it is properly connected. You can also try using the power button on your keyboard to turn on your computer. Finally, try updating your computer's drivers to ensure they are up to date."
+      ]
+    },
+    {
+      "tag": "computer_low_storage",
+      "input": [
+        "Why is my computer low on storage?",
+        "How can I free up space on my computer?",
+        "My computer is running out of space. What should I do?"
+      ],
+      "responses": [
+        "If your computer is low on storage, try deleting any unused programs or files to free up space on your hard drive. You can also try using an external hard drive or cloud storage to store files. Finally, try running a disk cleanup to remove any unnecessary files.",
+        "To free up space on your computer, try deleting any unused programs or files to free up space on your hard drive. You can also try using an external hard drive or cloud storage to store files. Finally, try running a disk cleanup to remove any unnecessary files."
+      ]
+    },
+    {
+      "tag": "CD Drive",
+      "input": [
+        "Why is my CD drive not responding?",
+        "How can I fix my unresponsive CD drive?",
+        "My CD drive is not working. What should I do?"
+      ],
+      "responses": [
+        "If your CD drive is not responding, try checking the connection to your computer and make sure it is properly connected. You can also try updating the CD drive driver or checking to see if the CD is properly inserted. Finally, try using a different CD to determine if the problem is with the CD or your CD drive.",
+        "To fix your unresponsive CD drive, try checking the connection to your computer and make sure it is properly connected. You can also try updating the CD drive driver or checking to see if the CD is properly inserted. Finally, try using a different CD to determine if the problem is with the CD or your CD drive."
+      ]
+    },
+    {
+      "tag": "chocolate chip cookies",
+      "input": [
+        "How do I make chocolate chip cookies?",
+        "I want to bake chocolate chip cookies",
+        "Can you share a chocolate chip cookie recipe?"
+      ],
+      "responses": [
+        "To make chocolate chip cookies, you will need the following ingredients: all-purpose flour, baking soda, salt, unsalted butter, granulated sugar, brown sugar, vanilla extract, eggs, and semi-sweet chocolate chips. First, preheat the oven to 375°F. Then, cream together the butter, granulated sugar, brown sugar, and vanilla extract in a mixing bowl. Add in the eggs, one at a time, mixing well after each addition. In a separate bowl, whisk together the flour, baking soda, and salt. Gradually add the dry ingredients to the wet mixture, mixing until just combined. Stir in the chocolate chips. Drop spoonfuls of the cookie dough onto a baking sheet, leaving space in between each cookie. Bake for 8-10 minutes, or until the edges are golden brown. Let the cookies cool on the baking sheet for a few minutes before transferring them to a wire rack to cool completely.",
+        "Here's a recipe for chocolate chip cookies: you will need all-purpose flour, baking soda, salt, unsalted butter, granulated sugar, brown sugar, vanilla extract, eggs, and semi-sweet chocolate chips. First, preheat your oven to 375°F. In a mixing bowl, cream together the butter, granulated sugar, brown sugar, and vanilla extract. Add in the eggs, one at a time, mixing well after each addition. In a separate bowl, whisk together the flour, baking soda, and salt. Gradually add the dry ingredients to the wet mixture, mixing until just combined. Stir in the chocolate chips. Drop spoonfuls of the cookie dough onto a baking sheet and bake for 8-10 minutes, or until the edges are golden brown. Let the cookies cool on the baking sheet for a few minutes before transferring them to a wire rack to cool completely."
+      ]
+    },
+    {
+      "tag": "spaghetti bolognese",
+      "input": [
+        "How do I make spaghetti bolognese?",
+        "I want to cook spaghetti bolognese",
+        "Can you share a recipe for spaghetti bolognese?"
+      ],
+      "responses": [
+        "To make spaghetti bolognese, you will need the following ingredients: spaghetti, ground beef, onion, garlic, canned tomatoes, tomato paste, red wine, beef broth, salt, pepper, and olive oil. First, cook the spaghetti according to the package instructions. Meanwhile, heat the olive oil in a large skillet over medium-high heat. Add the onion and garlic and sauté until translucent. Add the ground beef and cook until browned, breaking it up with a wooden spoon. Drain any excess fat. Add the canned tomatoes, tomato paste, red wine, beef broth, salt, and pepper to the skillet. Bring the mixture to a simmer and let it cook for 15-20 minutes, or until the sauce has thickened. Serve the sauce over the cooked spaghetti.",
+        "Here's a recipe for spaghetti bolognese: you will need spaghetti, ground beef, onion, garlic, canned tomatoes, tomato paste, red wine, beef broth, salt, pepper, and olive oil. First, cook the spaghetti according to the package instructions. Meanwhile, heat the olive oil in a large skillet over medium-high heat. Add the onion and garlic and sauté until translucent. Add the ground beef andcook until browned, breaking it up with a wooden spoon. Drain any excess fat. Add the canned tomatoes, tomato paste, red wine, beef broth, salt, and pepper to the skillet. Bring the mixture to a simmer and let it cook for 15-20 minutes, or until the sauce has thickened. Serve the sauce over the cooked spaghetti."
+      ]
+    },
+    {
+      "tag": "pancakes",
+      "input": [
+        "How do I make pancakes?",
+        "I want to make pancakes for breakfast",
+        "Can you share a recipe for pancakes?"
+      ],
+      "responses": [
+        "To make pancakes, you will need the following ingredients: all-purpose flour, baking powder, salt, milk, egg, unsalted butter, and sugar. In a mixing bowl, whisk together the flour, baking powder, salt, and sugar. In a separate bowl, whisk together the milk, egg, and melted butter. Gradually add the wet mixture to the dry mixture, stirring until just combined (it's okay if there are some lumps in the batter). Heat a non-stick pan or griddle over medium heat. Use a ladle or measuring cup to scoop the batter onto the pan, making pancakes of the desired size. Cook the pancakes until bubbles start to form on the surface and the edges start to dry, then flip them over and cook for an additional 1-2 minutes on the other side. Serve the pancakes with your choice of toppings.",
+        "Here's a recipe for pancakes: you will need all-purpose flour, baking powder, salt, milk, egg, unsalted butter, and sugar. In a mixing bowl, whisk together the flour, baking powder, salt, and sugar. In a separate bowl, whisk together the milk, egg, and melted butter. Gradually add the wet mixture to the dry mixture, stirring until just combined. Heat a non-stick pan or griddle over medium heat. Use a ladle or measuring cup to scoop the batter onto the pan, making pancakes of the desired size. Cook the pancakes until bubbles start to form on the surface and the edges start to dry, then flip them over and cook for an additional 1-2 minutes on the other side. Serve the pancakes with your choice of toppings, such as maple syrup, butter, fruit, or whipped cream."
+      ]
+    },
+    {
+      "tag": "chicken soup",
+      "input": [
+        "How do I make chicken soup?",
+        "I want to make some homemade chicken soup",
+        "Can you share a recipe for chicken soup?"
+      ],
+      "responses": [
+        "To make chicken soup, you will need the following ingredients: chicken, onion, carrot, celery, garlic, bay leaves, salt, pepper, and chicken broth. In a large pot, add the chicken and enough water to cover it. Bring the water to a boil, then reduce the heat to low and let the chicken simmer for 45-60 minutes, or until fully cooked. Remove the chicken from the pot and set it aside to cool. Once the chicken is cool enough to handle, remove the meat from the bones and chop it into bite-sized pieces. In the same pot, add the onion, carrot, celery, garlic, bay leaves, salt, pepper, and chicken broth. Bring the mixture to a boil, then reduce the heat to low and let it simmer for 30-45 minutes, or until the vegetables are tender. Add the chopped chicken back to the pot and let it cook for an additional 5-10 minutes. Remove the bay leaves before serving.",
+        "Here's a recipe for chicken soup: you will need chicken, onion, carrot, celery, garlic, bay leaves, salt, pepper, and chicken broth. In a large pot, add the chicken and enough water to cover it. Bring the water to a boil, then reduce the heat to low and let the chicken simmer for 45-60 minutes, or until fully cooked. Remove the chicken from the pot and set it aside to cool. Once the chicken is cool enough to handle, remove the meat from the bones and chop it into bite-sized pieces. In the same pot, add the onion, carrot, celery, garlic, bay leaves, salt, pepper, and chicken broth. Bring the mixture to a boil, then reduce the heat to low and let it simmer for 30-45 minutes, or until the vegetables are tender. Add the chopped chicken back to the pot and let it cook for an additional 5-10 minutes. Remove the bay leaves before serving. You can also add noodles or rice to the soup if desired."
+      ]
+    },
+    {
+      "tag": "chocolate chip cookies",
+      "input": [
+        "How do I make chocolate chip cookies?",
+        "I want to bake some chocolate chip cookies",
+        "Can you share a recipe for chocolate chip cookies?"
+      ],
+      "responses": [
+        "To make chocolate chip cookies, you will need the following ingredients: all-purpose flour, baking soda, salt, unsalted butter, white sugar, brown sugar, vanilla extract, eggs, and chocolate chips. In a mixing bowl, whisk together the flour, baking soda, and salt. In a separate bowl, cream together the butter, white sugar, brown sugar, and vanilla extract until smooth. Beat in the eggs one at a time, then gradually add the dry ingredients to the wet mixture, stirring until just combined. Stir in the chocolate chips. Preheat the oven to 375°F (190°C). Drop spoonfuls of the dough onto a baking sheet lined with parchment paper. Bake for 8-10 minutes, or until the edges are lightly browned. Let the cookies cool on the baking sheet for a few minutes before transferring them to a wire rack to cool completely.",
+        "Here's a recipe for chocolate chip cookies: you will need all-purpose flour, baking soda, salt, unsalted butter, white sugar, brown sugar, vanilla extract, eggs, and chocolate chips. In a mixing bowl,whisk together the flour, baking soda, and salt. In a separate bowl, cream together the butter, white sugar, brown sugar, and vanilla extract until smooth. Beat in the eggs one at a time, then gradually add the dry ingredients to the wet mixture, stirring until just combined. Stir in the chocolate chips. Preheat the oven to 375°F (190°C). Drop spoonfuls of the dough onto a baking sheet lined with parchment paper. Bake for 8-10 minutes, or until the edges are lightly browned. Let the cookies cool on the baking sheet for a few minutes before transferring them to a wire rack to cool completely. You can adjust the amount of chocolate chips to your liking, or even use different types of chips, like peanut butter or white chocolate chips, for a different flavor."
+      ]
+    },
+    {
+      "tag": "chicken stir-fry",
+      "input": [
+        "How do I make chicken stir-fry?",
+        "I want to cook chicken stir-fry for dinner",
+        "Can you share a recipe for chicken stir-fry?"
+      ],
+      "responses": [
+        "To make chicken stir-fry, you will need the following ingredients: boneless, skinless chicken breasts, soy sauce, cornstarch, sesame oil, garlic, ginger, onion, broccoli florets, sliced carrots, sliced bell pepper, and vegetable oil. Begin by slicing the chicken breasts into thin strips, and then marinate the chicken in a mixture of soy sauce, cornstarch, and sesame oil for at least 10 minutes. In a large skillet or wok, heat the vegetable oil over high heat. Add the garlic, ginger, and onion to the skillet, and stir-fry for 1-2 minutes. Add the chicken to the skillet, and stir-fry for 5-7 minutes, or until the chicken is cooked through. Add the broccoli, carrots, and bell pepper to the skillet, and stir-fry for an additional 3-5 minutes, or until the vegetables are tender-crisp. Serve the chicken stir-fry over rice or noodles, and garnish with sliced green onions, if desired.",
+        "Here's a recipe for chicken stir-fry: you will need boneless, skinless chicken breasts, soy sauce, cornstarch, sesame oil, garlic, ginger, onion, broccoli florets, sliced carrots, sliced bell pepper, and vegetable oil. Begin by slicing the chicken breasts into thin strips, and then marinate the chicken in a mixture of soy sauce, cornstarch, and sesame oil for at least 10 minutes. In a large skillet or wok, heat the vegetable oil over high heat. Add the garlic, ginger, and onion to the skillet, and stir-fry for 1-2 minutes. Add the chicken to the skillet, and stir-fry for 5-7 minutes, or until the chicken is cooked through. Add the broccoli, carrots, and bell pepper to the skillet, and stir-fry for an additional 3-5 minutes, or until the vegetables are tender-crisp. Serve the chicken stir-fry over rice or noodles, and garnish with sliced green onions, if desired. You can also add additional vegetables or spices to the stir-fry, like snow peas, mushrooms, or red pepper flakes, to make it your own."
+      ]
+    },
+    {
+      "tag": "spaghetti carbonara",
+      "input": [
+        "How do I make spaghetti carbonara?",
+        "Can you share a recipe for spaghetti carbonara?",
+        "I want to cook spaghetti carbonara for dinner"
+      ],
+      "responses": [
+        "To make spaghetti carbonara, you will need the following ingredients: spaghetti pasta, bacon, eggs, Parmesan cheese, garlic, and black pepper. Begin by cooking the spaghetti pasta in a large pot of boiling salted water until al dente. While the pasta is cooking, fry the bacon in a large skillet until crispy, and then remove it from the skillet and chop it into small pieces. In a mixing bowl, beat the eggs, Parmesan cheese, garlic, and black pepper together until well combined. When the pasta is cooked, reserve a cup of the pasta water, and then drain the pasta and add it to the skillet with the bacon. Remove the skillet from the heat, and then add the egg mixture and pasta water to the skillet, stirring until the sauce is creamy and the pasta is coated. Serve the spaghetti carbonara hot, and garnish with additional Parmesan cheese and black pepper, if desired.",
+        "Here's a recipe for spaghetti carbonara: you will need spaghetti pasta, bacon, eggs, Parmesan cheese, garlic, and black pepper. Begin by cooking the spaghetti pasta in a large pot of boiling salted water until al dente. While the pasta is cooking, fry the bacon in a large skillet until crispy, and then remove it from the skillet and chop it into small pieces. In a mixing bowl, beat the eggs, Parmesan cheese, garlic, and black pepper together until well combined. When the pasta is cooked, reserve a cup of the pasta water, and then drain the pasta and add it to the skillet with the bacon. Remove the skillet from the heat, and then add the egg mixture and pasta water to the skillet, stirring until the sauce is creamy and the pasta is coated. Serve the spaghetti carbonara hot, and garnish with additional Parmesan cheese and black pepper, if desired. You can also add other ingredients to the carbonara, such as peas, mushrooms, or spinach, to add more flavor and nutrition to the dish."
+      ]
+    },
+    {
+      "tag": "scrambled eggs",
+      "input": [
+        "How do I make scrambled eggs?",
+        "Can you give me a recipe for scrambled eggs?",
+        "I want to make scrambled eggs for breakfast"
+      ],
+      "responses": [
+        "To make scrambled eggs, you will need the following ingredients: eggs, butter or oil, milk (optional), salt, and pepper. Begin by cracking the eggs into a bowl and whisking them until the yolks and whites are fully combined. Heat a non-stick skillet over medium heat and add some butter or oil to the pan. Once the butter has melted or the oil is hot, pour in the egg mixture. Let the eggs cook for a few seconds without stirring, and then use a spatula to gently push the eggs from the edges of the pan towards the center. Continue to push and fold the eggs until they are cooked to your desired consistency. If you like creamy scrambled eggs, you can add a splash of milk to the eggs before whisking. Season the scrambled eggs with salt and pepper to taste and serve immediately.",
+        "Here's a recipe for scrambled eggs: you will need eggs, butter or oil, milk (optional), salt, and pepper. Begin by cracking the eggs into a bowl and whisking them until the yolks and whites are fully combined. Heat a non-stick skillet over medium heat and add some butter or oil to the pan. Once the butter has melted or the oil is hot, pour in the egg mixture. Let the eggs cook for a few seconds without stirring, and then use a spatula to gently push the eggs from the edges of the pan towards the center. Continue to push and fold the eggs until they are cooked to your desired consistency. If you like creamy scrambled eggs, you can add a splash of milk to the eggs before whisking. Season the scrambled eggs with salt and pepper to taste and serve immediately. You can also customize your scrambled eggs by adding ingredients like cheese, herbs, or diced vegetables to the mixture while cooking."
+      ]
+    },
+    {
+      "tag": "push_ups",
+      "input": [
+        "How do I do push-ups?",
+        "What is the proper form for push-ups?",
+        "How many push-ups should I do?"
+      ],
+      "responses": [
+        "To do push-ups, start in a plank position with your hands shoulder-width apart. Lower your body until your chest touches the ground, then push back up to the starting position. Repeat for your desired number of reps. Aim to do 3 sets of 10-20 reps.",
+        "The proper form for push-ups involves keeping your body in a straight line, engaging your core, and lowering your body until your chest touches the ground. Make sure to keep your elbows close to your body and your hands directly under your shoulders.",
+        "It's best to start with a small number of push-ups and gradually increase as you get stronger. Aim to do 3 sets of 10-20 reps."
+      ]
+    },
+    {
+      "tag": "squats",
+      "input": [
+        "How do I do squats?",
+        "What is the proper form for squats?",
+        "How many squats should I do?"
+      ],
+      "responses": [
+        "To do squats, stand with your feet shoulder-width apart and your toes pointed slightly outward. Lower your body as if you're sitting in a chair, making sure to keep your knees behind your toes. Push back up to the starting position and repeat for your desired number of reps. Aim to do 3 sets of 10-20 reps.",
+        "The proper form for squats involves keeping your chest up, your back straight, and your knees behind your toes. Make sure to engage your core and keep your weight in your heels.",
+        "It's best to start with a small number of squats and gradually increase as you get stronger. Aim to do 3 sets of 10-20 reps."
+      ]
+    },
+    {
+      "tag": "lunges",
+      "input": [
+        "How do I do lunges?",
+        "What is the proper form for lunges?",
+        "How many lunges should I do?"
+      ],
+      "responses": [
+        "To do lunges, start with your feet together and take a step forward with one foot. Lower your body until your front knee is bent at a 90-degree angle, then push back up to the starting position. Repeat on the other leg and alternate for your desired number of reps. Aim to do 3 sets of 10-20 reps.",
+        "The proper form for lunges involves keeping your upper body straight, your shoulders back, and your core engaged. Make sure to keep your front knee behind your toes and your back knee hovering just above the ground.",
+        "It's best to start with a small number of lunges and gradually increase as you get stronger. Aim to do 3 sets of 10-20 reps."
+      ]
+    },
+    {
+      "tag": "plank",
+      "input": [
+        "How do I do a plank?",
+        "What is the proper form for a plank?",
+        "How long should I hold a plank?"
+      ],
+      "responses": [
+        "To do a plank, start in a push-up position with your hands shoulder-width apart. Lower your body until your forearms are resting on the ground, and your elbows are directly under your shoulders. Keep your body in a straight line from your head to your heels and hold for your desired amount of time. Aim to hold for 30-60 seconds.",
+        "The proper form for a plank involves engaging your core, squeezing your glutes, and keeping your body in a straight line. Make sure to breathe deeply and evenly throughout the exercise.",
+        "It's best to start with a shorter amount of time and gradually increase as you get stronger. Aim to hold for 30-60 seconds."
+      ]
+    },
+    {
+      "tag": "sit_ups",
+      "input": [
+        "How do I do sit-ups?",
+        "What is the proper form for sit-ups?",
+        "How many sit-ups should I do?"
+      ],
+      "responses": [
+        "To do sit-ups, lie on your back with your knees bent and your feet flat on the ground. Cross your arms over your chest or place your hands behind your head. Engage your core and lift your upper body until your elbows touch your knees. Lower back down to the starting position and repeat for your desired number of reps. Aim to do 3 sets of 10-20 reps.",
+        "The proper form for sit-ups involves keeping your feet on the ground, your lower back pressed into the floor, and your neck in a neutral position.",
+        "It's best to start with a small number of sit-ups and gradually increase as you get stronger. Aim to do 3 sets of 10-20 reps."
+      ]
+    },
+    {
+      "tag": "deadlift",
+      "input": [
+        "How do I do a deadlift?",
+        "What is the proper form for a deadlift?",
+        "How many deadlifts should I do?"
+      ],
+      "responses": [
+        "To do a deadlift, stand with your feet shoulder-width apart and your toes pointed slightly outward. Bend your knees and lower your hips while keeping your back straight. Grab the weight with an overhand grip and lift it up while extending your hips and knees. Lower the weight back down to the ground and repeat for your desired number of reps. Aim to do 3 sets of 8-12 reps.",
+        "The proper form for a deadlift involves keeping your back straight, your chest up, and your knees behind your toes. Make sure to engage your core and use a weight that you can lift with proper form.",
+        "It's best to start with a lighter weight and gradually increase as you get stronger. Aim to do 3 sets of 8-12 reps."
+      ]
+    },
+    {
+      "tag": "bench_press",
+      "input": [
+        "How do I do a bench press?",
+        "What is the proper form for a bench press?",
+        "How many bench presses should I do?"
+      ],
+      "responses": [
+        "To do a bench press, lie on a flat bench with your feet on the ground and your hands gripping the barbell slightly wider than shoulder-width apart. Lower the barbell to your chest, then push it back up to the starting position. Repeat for your desired number of reps. Aim to do 3 sets of 8-12 reps.",
+        "The proper form for a bench press involves keeping your back flat on the bench, your feet on the ground, and your elbows tucked in at a 45-degree angle. Make sure to engage your core and use a weight that you can lift with proper form.",
+        "It's best to start with a lighter weight and gradually increase as you get stronger. Aim to do 3 sets of 8-12 reps."
+      ]
+    },
+    {
+      "tag": "bicep_curls",
+      "input": [
+        "How do I do bicep curls?",
+        "What is the proper form for bicep curls?",
+        "How many bicep curls should I do?"
+      ],
+      "responses": [
+        "To do bicep curls, stand with your feet shoulder-width apart and your arms at your sides holding dumbbells. Curl the dumbbells up to your shoulders, then lower them back down to the starting position. Repeat for your desired number of reps. Aim to do 3 sets of 10-15 reps.",
+        "The proper form for bicep curls involves keeping your elbows close to your body, your wrists straight, and your back straight. Make sure to engage your core and use a weight that you can lift with proper form.",
+        "It's best to start with a lighter weight and gradually increase as you get stronger. Aim to do 3 sets of 10-15 reps."
+      ]
+    },
+    {
+      "tag": "shoulder_press",
+      "input": [
+        "How do I do a shoulder press?",
+        "What is the proper form for a shoulder press?",
+        "How many shoulder presses should I do?"
+      ],
+      "responses": [
+        "To do a shoulder press, stand with your feet shoulder-width apart and hold dumbbells at shoulder height with your palms facing forward. Press the dumbbells up and overhead, then lower them back down to the starting position. Repeat for your desired number of reps. Aim to do 3 sets of 8-12 reps.",
+        "The proper form for a shoulder press involves keeping your elbows close to your body, your wrists straight, and your back straight. Make sure to engage your core and use a weight that you can lift with proper form.",
+        "It's best to start with a lighter weight and gradually increase as you get stronger. Aim to do 3 sets of 8-12 reps."
+      ]
+    }
+  ]
+}
